@@ -1,0 +1,122 @@
+.learnContainer.left{
+    padding-right:40px
+}
+.learnContainer.right{
+    padding-left:40px
+}
+
+.learningFlex::before {
+    content:'';
+    display:block;
+    position: absolute;
+    width:14px !important;
+    height:14px !important;
+    min-width:14px !important;
+    min-height:14px !important;
+    max-width:14px !important;
+    max-height:14px !important;
+    background:#fff;
+    left: calc(50% - 14px/2 + 1px);
+    top: calc(50% - 7px);
+    border-radius: 50%;
+    border: 2px solid #34966D;
+    padding:0px;
+    z-index: 2;
+}
+
+.dark .learningFlex::before {
+    background:#22292e;
+}
+.learningFlex::after{
+    content:'';
+    display:block;
+    position: absolute;
+    left: calc(50% - 197.5px/2 + 98.75px);
+    top: calc(50% - 0px/2 - 0px);
+    background: #34966D;
+    width:2px;
+    height:490.5px;
+
+}
+.learningFlex:last-child::after{
+    background:#fff;
+    z-index: 9;
+    outline: none !important;
+    box-shadow: none !important;
+    border:0px none;
+    width:10px;
+    left:calc(50% - 197.5px/2 + 95.75px);
+    top: calc(50% - 0px/2 + 7px);
+}
+
+.dark .learningFlex:last-child::after{
+    background:#22292e;
+}
+
+.learningFlex{
+    position: relative;
+}
+
+.hero-container {
+    position: absolute;
+    right: 0;
+    top: -19rem;
+}
+
+@media only screen and (max-width: 1280px){
+    .floatContainer{
+        box-shadow: none !important;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .learnContainer.right{
+        padding-left:0px
+    }
+    .learnContainerIcon{
+        padding-bottom: 15px !important;
+        padding-left:35px !important;
+    }
+    .learningBlockBorder{
+        border:0px none !important;
+    }
+    .learningFlex::after,.learningFlex::before{
+        left:0 !important;
+        top:100px !important;
+    }
+    .learningFlex::before{
+        top:100px !important;
+    }
+    .learningFlex::after{
+        left:6px !important;
+    }
+    .learningFlex:last-child::after{
+        left:5px !important;
+        top:114px !important;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .floatingPositionBlock{
+        height: auto !important;
+        top: unset !important;
+    }
+    .white-box-container{
+        padding-right: 5px;
+    }
+
+    .hero-container {
+        position: relative;
+        display: flex;
+        width: calc(100% - 2rem);
+        justify-content: center;
+        top: auto;
+        right: auto;
+        margin-top: 1rem;
+        overflow: visible;
+    }
+
+    .hero-container svg {
+        min-width: 600px;
+    }
+}

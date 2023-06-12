@@ -1,0 +1,28 @@
+@keyframes slideInDown {
+  from { transform: translateY(-4rem) }
+  to { transform: translateY(0) }
+}
+
+@keyframes slideInUp {
+  from { transform: translateY(4rem) }
+  to { transform: translateY(0) }
+}
+
+.top-toast {
+  animation: slideInDown ease-out 150ms;
+  top: 0;
+  margin-top: 0.5rem;
+}
+
+.bottom-toast {
+  animation: slideInUp ease-out 150ms;
+  bottom: 0;
+  margin-bottom: 0.5rem;
+}
+
+.toast {
+  border-radius: 4px;
+  border: 1px solid #E5E5E5;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+

@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+  .additional-preferences-panel {
+    top: 60px;
+    right: -28px;
+    width: 100vw;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .additional-preferences-panel {
+    top: 60px;
+    right: 0px;
+    width: 396px;
+  }
+}

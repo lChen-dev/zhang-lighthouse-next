@@ -1,0 +1,102 @@
+.label-float {
+  position: relative;
+  padding-top: 13px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.label-float input {
+  height: 60px;
+  border: 1px solid lightgrey;
+  /* border-radius: 8px; */
+  outline: none;
+  color: rgba(42, 52, 58,1);
+  font-size: 18px;
+  width: 100%;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -webkit-appearance: none;
+}
+
+.label-float input:focus {
+  border: 1px solid #34966D;
+}
+
+.label-float input::placeholder {
+  color: transparent;
+}
+
+.label-float label {
+  pointer-events: none;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  position: absolute;
+  color: rgba(42, 52, 58, 0.85);
+  top: 0;
+  left: 0;
+  margin-top: 28px;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+}
+
+.label-float input:invalid + label {
+  color: red;
+}
+
+.label-float input:focus + label,
+.label-float input:not(:placeholder-shown) + label {
+  font-size: 13px;
+  background-color: white;
+  margin-top: 3px;
+  margin-left: 12px;
+  color: #34966D;
+  z-index: 10;
+
+}
+
+.label-float.has-error input {
+  border-color: #F65151;
+}
+
+.label-float.has-error input + label {
+  color: #F65151;
+}
+
+@media only screen and (max-width:639px) {
+  .label-float input {
+    height: 60px;
+    border-top: none;
+    font-weight: 700;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid lightgrey;
+    /* border-radius: 8px; */
+    outline: none;
+    color: rgba(42, 52, 58, 1);
+    font-size: 18px;
+    width: 100%;
+    transition: all .3s ease-out;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -webkit-appearance: none;
+  }
+  .label-float input:focus {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #34966D;
+  }
+  .label-float input:focus + label,
+  .label-float input:not(:placeholder-shown) + label {
+    display: none;
+    font-size: 13px;
+    background-color: white;
+    margin-top: 3px;
+    color: #34966D;
+    z-index: 10;
+
+  }
+}

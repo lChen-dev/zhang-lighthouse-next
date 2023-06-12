@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3001",
+  "integrationFolder": "cypress/e2e",
+  "retries": 2,
+  "defaultCommandTimeout": 10000,
+  "videoUploadOnPasses": false
+}

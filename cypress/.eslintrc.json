@@ -1,0 +1,11 @@
+{
+  "plugins": ["eslint-plugin-cypress"],
+  "extends": ["plugin:cypress/recommended"],
+  "env": {"cypress/globals": true},
+  "parserOptions": {
+    "project": "../tsconfig.json",
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": { "jsx": true }
+  }
+}

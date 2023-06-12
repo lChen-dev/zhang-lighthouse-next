@@ -1,0 +1,36 @@
+.universities-dialog .close{
+    display: none;
+}
+.universities-dialog .modal-header{
+    padding: 0px !important;
+}
+.universities-dialog .uni-list-content{
+    height: 450px;
+    overflow: hidden;
+    border-bottom: 1px solid #E5E5E5;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+}
+.universities-dialog .modal-body{
+    padding: 0px 1rem !important;
+}
+.universities-dialog .modal-body img{
+    width: 18px;
+    margin-right: 20px;
+}
+.universities-dialog .university-row:hover{
+    background-color: rgba(52, 150, 109, 0.1);
+}
+.universities-dialog .university-row:hover p{
+    color: #34966D;
+}
+.universities-dialog .university-row-active{
+    background-color: rgba(52, 150, 109, 0.1);
+}
+.universities-dialog .university-row-active p{
+    color: #34966D;
+}
+.universities-dialog .uni-list-container{
+    height: 310px;
+    overflow: auto;
+}

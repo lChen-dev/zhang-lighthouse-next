@@ -1,0 +1,6 @@
+.text-inherit{
+    color:inherit !important;
+}
+.text-inherit:hover{
+    color:inherit !important;
+}

@@ -1,0 +1,72 @@
+.steps {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 1rem 0;
+    list-style: none;
+    justify-content: justify-between;
+    position: relative;
+  }
+  
+  .step {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    background: white;;
+    z-index: 2;
+    margin-left:10px;
+  }
+  .step:not(:last-child):after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: calc(50% - 2.5px);
+    left: 40px;
+    height: 2.5px;
+    width: calc(100% - 40px);
+    background-color: rgba(42, 52, 58, 0.1);
+    will-change: width;
+    z-index: -1;
+  }
+  .stepContainer, .step svg, .step:last-child{
+    width:30px;
+    height:30px;
+  }
+  .step--complete:after {
+    width: calc(100% - 40px) !important;
+    background-color: rgba(52, 150, 109, 0.35) !important;
+    transition: width 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  }
+  .step--active, .step--complete {
+    cursor: pointer;
+    pointer-events: all;
+  }
+  .stepyellow {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    background: white;;
+    z-index: 2;
+    margin-left:10px;
+  }
+  .stepyellow:not(:last-child):after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: calc(50% - 2.5px);
+    left: 40px;
+    height: 2.5px;
+    width: calc(100% - 40px);
+    background-color:rgba(255, 204, 123, 0.4);
+    will-change: width;
+    z-index: 10;
+  }
+  .stepContainer, .stepyellow svg, .stepyellow:last-child{
+    width:30px;
+    height:30px;
+  }
+  
+  .step--active, .step--complete {
+    cursor: pointer;
+    pointer-events: all;
+  }

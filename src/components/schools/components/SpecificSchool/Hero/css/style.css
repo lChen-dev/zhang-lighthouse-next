@@ -1,0 +1,27 @@
+.specific-school-banner{
+    max-height: 600px;
+    min-height: 530px;
+    z-index: 1;
+    background: #F9F9F9;
+}
+.banner{
+    max-height: 825px;
+    top: 28%;
+    left: 58%;
+}
+.hero-cards{
+    top: -88px;
+    max-width: 770px;
+}
+@media only screen and (max-width: 767px) {
+    .banner{
+        top: initial;
+        left: 0;
+        bottom: -10px;
+    }
+    .specific-school-banner{
+        height: 650px;
+        max-height: 650px;
+        min-height: 650px;
+    }
+}

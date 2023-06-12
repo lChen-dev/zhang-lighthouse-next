@@ -1,0 +1,13 @@
+{
+    "guns": "/static/assets/Icons/guns.svg",
+    "cameras": "/static/assets/Icons/cameras.svg",
+    "jewelry": "/static/assets/Icons/jewelry.svg",
+    "bicycles": "/static/assets/Icons/bicycles.svg",
+    "fine_arts": "/static/assets/Icons/fine_arts.svg",
+    "trading_cards": "/static/assets/Icons/trading_cards.svg",
+    "golf_equipment": "/static/assets/Icons/golf_equipment.svg",
+    "coin_collection": "/static/assets/Icons/coin_collection.svg",
+    "stamp_collection": "/static/assets/Icons/stamp_collection.svg",
+    "musical_instruments": "/static/assets/Icons/musical_instruments.svg",
+    "silverware_and_goldware": "/static/assets/Icons/furnished_property.svg"
+}

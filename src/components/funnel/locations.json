@@ -1,0 +1,4630 @@
+[
+  {
+    "name": "Austin, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.5168629,
+        "lng": -97.5684199
+      },
+      "southwest": {
+        "lat": 30.0986589,
+        "lng": -97.9383829
+      }
+    }
+  },
+  {
+    "name": "Pflugerville, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.5005012,
+        "lng": -97.5031364
+      },
+      "southwest": {
+        "lat": 30.3814219,
+        "lng": -97.6688245
+      }
+    }
+  },
+  {
+    "name": "Carrollton, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.0547039,
+        "lng": -96.83846109999999
+      },
+      "southwest": {
+        "lat": 32.918028,
+        "lng": -96.9601349
+      }
+    }
+  },
+  {
+    "name": "Irving, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.953966,
+        "lng": -96.88878199999999
+      },
+      "southwest": {
+        "lat": 32.771786,
+        "lng": -97.0340848
+      }
+    }
+  },
+  {
+    "name": "Dallas, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.0237921,
+        "lng": -96.4637379
+      },
+      "southwest": {
+        "lat": 32.617537,
+        "lng": -96.999347
+      }
+    }
+  },
+  {
+    "name": "Coppell, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.994501,
+        "lng": -96.932727
+      },
+      "southwest": {
+        "lat": 32.922607,
+        "lng": -97.032624
+      }
+    }
+  },
+  {
+    "name": "Garland, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9854148,
+        "lng": -96.5055189
+      },
+      "southwest": {
+        "lat": 32.8302751,
+        "lng": -96.7059039
+      }
+    }
+  },
+  {
+    "name": "Plano, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.125271,
+        "lng": -96.6130219
+      },
+      "southwest": {
+        "lat": 32.997253,
+        "lng": -96.8602289
+      }
+    }
+  },
+  {
+    "name": "Lewisville, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.100028,
+        "lng": -96.86586609999999
+      },
+      "southwest": {
+        "lat": 32.985124,
+        "lng": -97.0456629
+      }
+    }
+  },
+  {
+    "name": "Richardson, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.0049039,
+        "lng": -96.613078
+      },
+      "southwest": {
+        "lat": 32.923074,
+        "lng": -96.76902489999999
+      }
+    }
+  },
+  {
+    "name": "Farmers Branch, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9533809,
+        "lng": -96.8214699
+      },
+      "southwest": {
+        "lat": 32.895587,
+        "lng": -96.937877
+      }
+    }
+  },
+  {
+    "name": "Arlington, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.8171209,
+        "lng": -97.037008
+      },
+      "southwest": {
+        "lat": 32.5865651,
+        "lng": -97.23381810000001
+      }
+    }
+  },
+  {
+    "name": "Bedford, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.867784,
+        "lng": -97.09968789999999
+      },
+      "southwest": {
+        "lat": 32.8220861,
+        "lng": -97.16862809999999
+      }
+    }
+  },
+  {
+    "name": "Fort Worth, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.0493109,
+        "lng": -97.033715
+      },
+      "southwest": {
+        "lat": 32.552315,
+        "lng": -97.54492289999999
+      }
+    }
+  },
+  {
+    "name": "Benbrook, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.7237839,
+        "lng": -97.411845
+      },
+      "southwest": {
+        "lat": 32.6466658,
+        "lng": -97.5018729
+      }
+    }
+  },
+  {
+    "name": "Haltom City, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.8609699,
+        "lng": -97.23591900000001
+      },
+      "southwest": {
+        "lat": 32.779539,
+        "lng": -97.293634
+      }
+    }
+  },
+  {
+    "name": "North Richland Hills, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9115189,
+        "lng": -97.185923
+      },
+      "southwest": {
+        "lat": 32.808746,
+        "lng": -97.2645129
+      }
+    }
+  },
+  {
+    "name": "Keller, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9790581,
+        "lng": -97.176704
+      },
+      "southwest": {
+        "lat": 32.8923628,
+        "lng": -97.265551
+      }
+    }
+  },
+  {
+    "name": "Houston, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.1107319,
+        "lng": -95.014496
+      },
+      "southwest": {
+        "lat": 29.523624,
+        "lng": -95.78808690000001
+      }
+    }
+  },
+  {
+    "name": "Pearland, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.598039,
+        "lng": -95.209571
+      },
+      "southwest": {
+        "lat": 29.495956,
+        "lng": -95.4594609
+      }
+    }
+  },
+  {
+    "name": "Humble, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.0325079,
+        "lng": -95.2436929
+      },
+      "southwest": {
+        "lat": 29.95384109999999,
+        "lng": -95.28769290000001
+      }
+    }
+  },
+  {
+    "name": "Stafford, TX 77477",
+    "bounds": {
+      "northeast": {
+        "lat": 29.6487069,
+        "lng": -95.526966
+      },
+      "southwest": {
+        "lat": 29.5981081,
+        "lng": -95.5978239
+      }
+    }
+  },
+  {
+    "name": "Pasadena, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.7399269,
+        "lng": -94.982683
+      },
+      "southwest": {
+        "lat": 29.55783589999999,
+        "lng": -95.2345418
+      }
+    }
+  },
+  {
+    "name": "Helotes, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.6204346,
+        "lng": -98.6630124
+      },
+      "southwest": {
+        "lat": 29.5163111,
+        "lng": -98.74399509999999
+      }
+    }
+  },
+  {
+    "name": "Universal City, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.58247,
+        "lng": -98.27292380000002
+      },
+      "southwest": {
+        "lat": 29.5259001,
+        "lng": -98.3341619
+      }
+    }
+  },
+  {
+    "name": "San Antonio, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.73872,
+        "lng": -98.22295799999999
+      },
+      "southwest": {
+        "lat": 29.2241411,
+        "lng": -98.8058509
+      }
+    }
+  },
+  {
+    "name": "Live Oak, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.580528,
+        "lng": -98.3182651
+      },
+      "southwest": {
+        "lat": 29.530446,
+        "lng": -98.361306
+      }
+    }
+  },
+  {
+    "name": "San Francisco, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.812,
+        "lng": -122.3482
+      },
+      "southwest": {
+        "lat": 37.70339999999999,
+        "lng": -122.527
+      }
+    }
+  },
+  {
+    "name": "Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.3373061,
+        "lng": -118.1552891
+      },
+      "southwest": {
+        "lat": 33.7036519,
+        "lng": -118.6681759
+      }
+    }
+  },
+  {
+    "name": "Emeryville, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.8499899,
+        "lng": -122.2756075
+      },
+      "southwest": {
+        "lat": 37.8269634,
+        "lng": -122.3341125
+      }
+    }
+  },
+  {
+    "name": "Culver City, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.03508,
+        "lng": -118.3695769
+      },
+      "southwest": {
+        "lat": 33.976719,
+        "lng": -118.4484721
+      }
+    }
+  },
+  {
+    "name": "Oakland, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.8853679,
+        "lng": -122.1147882
+      },
+      "southwest": {
+        "lat": 37.6320672,
+        "lng": -122.3558276
+      }
+    }
+  },
+  {
+    "name": "Marina Del Rey, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.986416,
+        "lng": -118.432259
+      },
+      "southwest": {
+        "lat": 33.964231,
+        "lng": -118.46348
+      }
+    }
+  },
+  {
+    "name": "San Jose, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.4692304,
+        "lng": -121.589154
+      },
+      "southwest": {
+        "lat": 37.124493,
+        "lng": -122.0456719
+      }
+    }
+  },
+  {
+    "name": "Playa Vista, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9846946,
+        "lng": -118.3985926
+      },
+      "southwest": {
+        "lat": 33.9667335,
+        "lng": -118.4328095
+      }
+    }
+  },
+  {
+    "name": "Oceanside, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.299233,
+        "lng": -117.2365761
+      },
+      "southwest": {
+        "lat": 33.1527181,
+        "lng": -117.3985069
+      }
+    }
+  },
+  {
+    "name": "Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.527832970143436,
+        "lng": -70.87455103500083
+      },
+      "southwest": {
+        "lat": 42.197035145520516,
+        "lng": -71.28516504867271
+      }
+    }
+  },
+  {
+    "name": "Mountain View, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.469887,
+        "lng": -122.0446721
+      },
+      "southwest": {
+        "lat": 37.3567832,
+        "lng": -122.1178619
+      }
+    }
+  },
+  {
+    "name": "Chicago, IL",
+    "bounds": {
+      "northeast": {
+        "lat": 42.023131,
+        "lng": -87.52366099999999
+      },
+      "southwest": {
+        "lat": 41.6443349,
+        "lng": -87.9402669
+      }
+    }
+  },
+  {
+    "name": "Cambridge, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.4043839,
+        "lng": -71.06548719999999
+      },
+      "southwest": {
+        "lat": 42.3523968,
+        "lng": -71.16033209999999
+      }
+    }
+  },
+  {
+    "name": "New York, NY",
+    "bounds": {
+      "northeast": {
+        "lat": 40.9175771,
+        "lng": -73.70027209999999
+      },
+      "southwest": {
+        "lat": 40.4773991,
+        "lng": -74.25908989999999
+      }
+    }
+  },
+  {
+    "name": "Charlotte, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.39313300000001,
+        "lng": -80.670104
+      },
+      "southwest": {
+        "lat": 35.0131739,
+        "lng": -81.0095539
+      }
+    }
+  },
+  {
+    "name": "Decatur, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7930255,
+        "lng": -84.27812899999999
+      },
+      "southwest": {
+        "lat": 33.751003,
+        "lng": -84.3157389
+      }
+    }
+  },
+  {
+    "name": "Denver, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.91424689999999,
+        "lng": -104.6002959
+      },
+      "southwest": {
+        "lat": 39.614431,
+        "lng": -105.109927
+      }
+    }
+  },
+  {
+    "name": "Sunrise, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.194061,
+        "lng": -80.2265699
+      },
+      "southwest": {
+        "lat": 26.1014649,
+        "lng": -80.3663289
+      }
+    }
+  },
+  {
+    "name": "Santa Monica, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.05056,
+        "lng": -118.443426
+      },
+      "southwest": {
+        "lat": 33.993161,
+        "lng": -118.5180849
+      }
+    }
+  },
+  {
+    "name": "Philadelphia, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1379919,
+        "lng": -74.9557629
+      },
+      "southwest": {
+        "lat": 39.8670041,
+        "lng": -75.2802937
+      }
+    }
+  },
+  {
+    "name": "Atlanta, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8876179,
+        "lng": -84.289389
+      },
+      "southwest": {
+        "lat": 33.6478079,
+        "lng": -84.5518189
+      }
+    }
+  },
+  {
+    "name": "Cincinnati, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 39.2207591,
+        "lng": -84.36875479999999
+      },
+      "southwest": {
+        "lat": 39.051921,
+        "lng": -84.71204809999999
+      }
+    }
+  },
+  {
+    "name": "Hollywood, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.111236,
+        "lng": -118.2840872
+      },
+      "southwest": {
+        "lat": 34.0762656,
+        "lng": -118.368869
+      }
+    }
+  },
+  {
+    "name": "Miami, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.855773,
+        "lng": -80.139157
+      },
+      "southwest": {
+        "lat": 25.709042,
+        "lng": -80.3197599
+      }
+    }
+  },
+  {
+    "name": "Evanston, IL",
+    "bounds": {
+      "northeast": {
+        "lat": 42.0718018,
+        "lng": -87.665297
+      },
+      "southwest": {
+        "lat": 42.01903009999999,
+        "lng": -87.7326599
+      }
+    }
+  },
+  {
+    "name": "Sacramento, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.685507,
+        "lng": -121.325705
+      },
+      "southwest": {
+        "lat": 38.4379609,
+        "lng": -121.56012
+      }
+    }
+  },
+  {
+    "name": "Manhattan, New York, NY",
+    "bounds": {
+      "northeast": {
+        "lat": 40.820045,
+        "lng": -73.90331300000001
+      },
+      "southwest": {
+        "lat": 40.698078,
+        "lng": -74.03514899999999
+      }
+    }
+  },
+  {
+    "name": "Washington, DC",
+    "bounds": {
+      "northeast": {
+        "lat": 38.995548,
+        "lng": -76.909393
+      },
+      "southwest": {
+        "lat": 38.7916449,
+        "lng": -77.119759
+      }
+    }
+  },
+  {
+    "name": "Long Beach, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8854591,
+        "lng": -118.063253
+      },
+      "southwest": {
+        "lat": 33.714957,
+        "lng": -118.248966
+      }
+    }
+  },
+  {
+    "name": "Long Island City, Queens, NY",
+    "bounds": {
+      "northeast": {
+        "lat": 40.7630563,
+        "lng": -73.9094829
+      },
+      "southwest": {
+        "lat": 40.727849,
+        "lng": -73.9628577
+      }
+    }
+  },
+  {
+    "name": "Columbus, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1572719,
+        "lng": -82.77137809999999
+      },
+      "southwest": {
+        "lat": 39.808631,
+        "lng": -83.2102799
+      }
+    }
+  },
+  {
+    "name": "St. Louis, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.774349,
+        "lng": -90.166409
+      },
+      "southwest": {
+        "lat": 38.5318519,
+        "lng": -90.320515
+      }
+    }
+  },
+  {
+    "name": "Grand Prairie, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.8166599,
+        "lng": -96.92401699999999
+      },
+      "southwest": {
+        "lat": 32.4986441,
+        "lng": -97.08102699999999
+      }
+    }
+  },
+  {
+    "name": "Campbell, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.3069592,
+        "lng": -121.9180482
+      },
+      "southwest": {
+        "lat": 37.2545689,
+        "lng": -121.9919139
+      }
+    }
+  },
+  {
+    "name": "Rosenberg, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.58727399999999,
+        "lng": -95.689447
+      },
+      "southwest": {
+        "lat": 29.462229,
+        "lng": -95.96586909999999
+      }
+    }
+  },
+  {
+    "name": "Brooklyn, NY",
+    "bounds": {
+      "northeast": {
+        "lat": 40.739446,
+        "lng": -73.8333651
+      },
+      "southwest": {
+        "lat": 40.551042,
+        "lng": -74.05663
+      }
+    }
+  },
+  {
+    "name": "San Rafael, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.0278209,
+        "lng": -122.434983
+      },
+      "southwest": {
+        "lat": 37.9368241,
+        "lng": -122.592352
+      }
+    }
+  },
+  {
+    "name": "San Diego, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.114249,
+        "lng": -116.90816
+      },
+      "southwest": {
+        "lat": 32.534856,
+        "lng": -117.3097969
+      }
+    }
+  },
+  {
+    "name": "Centennial, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.6385001,
+        "lng": -104.726691
+      },
+      "southwest": {
+        "lat": 39.5659789,
+        "lng": -104.9883521
+      }
+    }
+  },
+  {
+    "name": "Round Rock, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.584496,
+        "lng": -97.590564
+      },
+      "southwest": {
+        "lat": 30.4684358,
+        "lng": -97.755473
+      }
+    }
+  },
+  {
+    "name": "Raleigh, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.97172800000001,
+        "lng": -78.471063
+      },
+      "southwest": {
+        "lat": 35.7158079,
+        "lng": -78.8190489
+      }
+    }
+  },
+  {
+    "name": "Somerville, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.418118,
+        "lng": -71.0729949
+      },
+      "southwest": {
+        "lat": 42.372997,
+        "lng": -71.13450089999999
+      }
+    }
+  },
+  {
+    "name": "Salt Lake City, UT",
+    "bounds": {
+      "northeast": {
+        "lat": 40.8529699,
+        "lng": -111.7394581
+      },
+      "southwest": {
+        "lat": 40.700246,
+        "lng": -112.101512
+      }
+    }
+  },
+  {
+    "name": "Arvada, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.89271790000001,
+        "lng": -105.0405358
+      },
+      "southwest": {
+        "lat": 39.784087,
+        "lng": -105.3025431
+      }
+    }
+  },
+  {
+    "name": "Costa Mesa, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7020933,
+        "lng": -117.8639744
+      },
+      "southwest": {
+        "lat": 33.6251229,
+        "lng": -117.9547143
+      }
+    }
+  },
+  {
+    "name": "Pomona, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.1129359,
+        "lng": -117.711067
+      },
+      "southwest": {
+        "lat": 34.018512,
+        "lng": -117.828817
+      }
+    }
+  },
+  {
+    "name": "Mercer Island, WA",
+    "bounds": {
+      "northeast": {
+        "lat": 47.61362,
+        "lng": -122.199007
+      },
+      "southwest": {
+        "lat": 47.518421,
+        "lng": -122.26816
+      }
+    }
+  },
+  {
+    "name": "Duncanville, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.6766699,
+        "lng": -96.882581
+      },
+      "southwest": {
+        "lat": 32.6187181,
+        "lng": -96.94331389999999
+      }
+    }
+  },
+  {
+    "name": "Tempe, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.463984,
+        "lng": -111.8772261
+      },
+      "southwest": {
+        "lat": 33.3198608,
+        "lng": -111.978976
+      }
+    }
+  },
+  {
+    "name": "Las Vegas, NV",
+    "bounds": {
+      "northeast": {
+        "lat": 36.3,
+        "lng": -114.95
+      },
+      "southwest": {
+        "lat": 35.95,
+        "lng": -115.4
+      }
+    }
+  },
+  {
+    "name": "Indianapolis, IN",
+    "bounds": {
+      "northeast": {
+        "lat": 39.927392,
+        "lng": -85.9373789
+      },
+      "southwest": {
+        "lat": 39.632177,
+        "lng": -86.32812109999999
+      }
+    }
+  },
+  {
+    "name": "Bellevue, WA",
+    "bounds": {
+      "northeast": {
+        "lat": 47.6606959,
+        "lng": -122.0793321
+      },
+      "southwest": {
+        "lat": 47.534614,
+        "lng": -122.222931
+      }
+    }
+  },
+  {
+    "name": "Jacksonville, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 30.586232,
+        "lng": -81.316712
+      },
+      "southwest": {
+        "lat": 30.103748,
+        "lng": -82.0495018
+      }
+    }
+  },
+  {
+    "name": "Richmond, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.62377099999999,
+        "lng": -95.7253669
+      },
+      "southwest": {
+        "lat": 29.55483,
+        "lng": -95.79147599999999
+      }
+    }
+  },
+  {
+    "name": "Baytown, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.829269,
+        "lng": -94.8489439
+      },
+      "southwest": {
+        "lat": 29.6623709,
+        "lng": -95.0565649
+      }
+    }
+  },
+  {
+    "name": "The Woodlands, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.2313729,
+        "lng": -95.44672969999999
+      },
+      "southwest": {
+        "lat": 30.1052941,
+        "lng": -95.600972
+      }
+    }
+  },
+  {
+    "name": "Anaheim, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8790571,
+        "lng": -117.6735635
+      },
+      "southwest": {
+        "lat": 33.7889241,
+        "lng": -118.0174209
+      }
+    }
+  },
+  {
+    "name": "Spring, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.11561489999999,
+        "lng": -95.30924000000002
+      },
+      "southwest": {
+        "lat": 30.0262809,
+        "lng": -95.437018
+      }
+    }
+  },
+  {
+    "name": "Chula Vista, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 32.6856099,
+        "lng": -116.924797
+      },
+      "southwest": {
+        "lat": 32.577923,
+        "lng": -117.1242631
+      }
+    }
+  },
+  {
+    "name": "Winter Park, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.6324759,
+        "lng": -81.3079899
+      },
+      "southwest": {
+        "lat": 28.567848,
+        "lng": -81.386588
+      }
+    }
+  },
+  {
+    "name": "Mesquite, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.849232,
+        "lng": -96.471813
+      },
+      "southwest": {
+        "lat": 32.6815731,
+        "lng": -96.68353189999999
+      }
+    }
+  },
+  {
+    "name": "Aliso Viejo, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.6088496,
+        "lng": -117.7008133
+      },
+      "southwest": {
+        "lat": 33.5442318,
+        "lng": -117.7571013
+      }
+    }
+  },
+  {
+    "name": "Boca Raton, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.4249029,
+        "lng": -80.063664
+      },
+      "southwest": {
+        "lat": 26.3207559,
+        "lng": -80.1710669
+      }
+    }
+  },
+  {
+    "name": "Delray Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.4914608,
+        "lng": -80.05569779999999
+      },
+      "southwest": {
+        "lat": 26.4205549,
+        "lng": -80.12865
+      }
+    }
+  },
+  {
+    "name": "Fort Lauderdale, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.21186,
+        "lng": -80.087165
+      },
+      "southwest": {
+        "lat": 26.070365,
+        "lng": -80.2039691
+      }
+    }
+  },
+  {
+    "name": "Fullerton, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9246179,
+        "lng": -117.8637071
+      },
+      "southwest": {
+        "lat": 33.8541649,
+        "lng": -117.9854168
+      }
+    }
+  },
+  {
+    "name": "Addison, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9875902,
+        "lng": -96.8077721
+      },
+      "southwest": {
+        "lat": 32.9331541,
+        "lng": -96.8559508
+      }
+    }
+  },
+  {
+    "name": "Seattle, WA",
+    "bounds": {
+      "northeast": {
+        "lat": 47.734145,
+        "lng": -122.2244331
+      },
+      "southwest": {
+        "lat": 47.4919119,
+        "lng": -122.4596959
+      }
+    }
+  },
+  {
+    "name": "Doral, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.855379,
+        "lng": -80.32101700000001
+      },
+      "southwest": {
+        "lat": 25.7819078,
+        "lng": -80.387328
+      }
+    }
+  },
+  {
+    "name": "Englewood, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.67866,
+        "lng": -104.9594259
+      },
+      "southwest": {
+        "lat": 39.616687,
+        "lng": -105.034955
+      }
+    }
+  },
+  {
+    "name": "Frisco, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.2194789,
+        "lng": -96.7327579
+      },
+      "southwest": {
+        "lat": 33.0810508,
+        "lng": -96.922838
+      }
+    }
+  },
+  {
+    "name": "Davie, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.122964,
+        "lng": -80.18366209999999
+      },
+      "southwest": {
+        "lat": 26.0292669,
+        "lng": -80.3690751
+      }
+    }
+  },
+  {
+    "name": "Tampa, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.1714781,
+        "lng": -82.2597409
+      },
+      "southwest": {
+        "lat": 27.817487,
+        "lng": -82.64882
+      }
+    }
+  },
+  {
+    "name": "Conroe, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.4199119,
+        "lng": -95.39037809999999
+      },
+      "southwest": {
+        "lat": 30.203375,
+        "lng": -95.6572353
+      }
+    }
+  },
+  {
+    "name": "Chelsea, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.41477280000001,
+        "lng": -71.009377
+      },
+      "southwest": {
+        "lat": 42.383209,
+        "lng": -71.055295
+      }
+    }
+  },
+  {
+    "name": "Tallahassee, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 30.587337,
+        "lng": -84.129826
+      },
+      "southwest": {
+        "lat": 30.34694199999999,
+        "lng": -84.3838858
+      }
+    }
+  },
+  {
+    "name": "Grandview Heights, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 39.9893089,
+        "lng": -83.021109
+      },
+      "southwest": {
+        "lat": 39.9705609,
+        "lng": -83.0581989
+      }
+    }
+  },
+  {
+    "name": "Cary, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.896783,
+        "lng": -78.7291209
+      },
+      "southwest": {
+        "lat": 35.64409,
+        "lng": -78.931496
+      }
+    }
+  },
+  {
+    "name": "Whittier, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.03071600000001,
+        "lng": -117.965576
+      },
+      "southwest": {
+        "lat": 33.9281669,
+        "lng": -118.072246
+      }
+    }
+  },
+  {
+    "name": "Phoenix, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.92057,
+        "lng": -111.926046
+      },
+      "southwest": {
+        "lat": 33.29025980000001,
+        "lng": -112.324056
+      }
+    }
+  },
+  {
+    "name": "Sugar Land, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.661895,
+        "lng": -95.5805032
+      },
+      "southwest": {
+        "lat": 29.5125467,
+        "lng": -95.6980938
+      }
+    }
+  },
+  {
+    "name": "Cerritos, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8879101,
+        "lng": -118.0287091
+      },
+      "southwest": {
+        "lat": 33.845875,
+        "lng": -118.108566
+      }
+    }
+  },
+  {
+    "name": "Durham, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 36.1369289,
+        "lng": -78.762172
+      },
+      "southwest": {
+        "lat": 35.8667249,
+        "lng": -79.00765
+      }
+    }
+  },
+  {
+    "name": "West Melbourne, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.1037001,
+        "lng": -80.63767709999999
+      },
+      "southwest": {
+        "lat": 28.0352551,
+        "lng": -80.72099399999999
+      }
+    }
+  },
+  {
+    "name": "McKinney, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.3061923,
+        "lng": -96.5384409
+      },
+      "southwest": {
+        "lat": 33.1252922,
+        "lng": -96.7679076
+      }
+    }
+  },
+  {
+    "name": "Lakewood, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.761955,
+        "lng": -105.053173
+      },
+      "southwest": {
+        "lat": 39.61830390000001,
+        "lng": -105.199324
+      }
+    }
+  },
+  {
+    "name": "Norcross, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9686565,
+        "lng": -84.173478
+      },
+      "southwest": {
+        "lat": 33.920772,
+        "lng": -84.23084109999999
+      }
+    }
+  },
+  {
+    "name": "Clermont, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.576137,
+        "lng": -81.6737569
+      },
+      "southwest": {
+        "lat": 28.493478,
+        "lng": -81.7843319
+      }
+    }
+  },
+  {
+    "name": "Irvine, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7736521,
+        "lng": -117.6780258
+      },
+      "southwest": {
+        "lat": 33.5993914,
+        "lng": -117.8687519
+      }
+    }
+  },
+  {
+    "name": "Wake Forest, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 36.0155648,
+        "lng": -78.46349099999999
+      },
+      "southwest": {
+        "lat": 35.9028931,
+        "lng": -78.560054
+      }
+    }
+  },
+  {
+    "name": "North Lauderdale, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.229934,
+        "lng": -80.1954679
+      },
+      "southwest": {
+        "lat": 26.1866608,
+        "lng": -80.244275
+      }
+    }
+  },
+  {
+    "name": "North Miami Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.957163,
+        "lng": -80.12987179999999
+      },
+      "southwest": {
+        "lat": 25.9000959,
+        "lng": -80.20886589999999
+      }
+    }
+  },
+  {
+    "name": "Deer Park, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.745667,
+        "lng": -95.0871229
+      },
+      "southwest": {
+        "lat": 29.6637291,
+        "lng": -95.1446639
+      }
+    }
+  },
+  {
+    "name": "Walnut Creek, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.946022,
+        "lng": -121.9804709
+      },
+      "southwest": {
+        "lat": 37.842425,
+        "lng": -122.099975
+      }
+    }
+  },
+  {
+    "name": "West Palm Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.839332,
+        "lng": -80.043463
+      },
+      "southwest": {
+        "lat": 26.6445439,
+        "lng": -80.2146168
+      }
+    }
+  },
+  {
+    "name": "Orlando, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.6143519,
+        "lng": -81.22977
+      },
+      "southwest": {
+        "lat": 28.3479859,
+        "lng": -81.50790690000001
+      }
+    }
+  },
+  {
+    "name": "Wellington, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.685164,
+        "lng": -80.174336
+      },
+      "southwest": {
+        "lat": 26.592635,
+        "lng": -80.36379
+      }
+    }
+  },
+  {
+    "name": "Clearwater, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.050086,
+        "lng": -82.64860800000001
+      },
+      "southwest": {
+        "lat": 27.935115,
+        "lng": -82.846189
+      }
+    }
+  },
+  {
+    "name": "Dorchester, Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.3354159,
+        "lng": -71.0325551
+      },
+      "southwest": {
+        "lat": 42.267598,
+        "lng": -71.0800369
+      }
+    }
+  },
+  {
+    "name": "Dickinson, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.479086,
+        "lng": -95.009783
+      },
+      "southwest": {
+        "lat": 29.4252588,
+        "lng": -95.1099809
+      }
+    }
+  },
+  {
+    "name": "Kingwood, Houston, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.0963014,
+        "lng": -95.119638
+      },
+      "southwest": {
+        "lat": 30.020769,
+        "lng": -95.29292989999999
+      }
+    }
+  },
+  {
+    "name": "Balcones Heights, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.5018103,
+        "lng": -98.543938
+      },
+      "southwest": {
+        "lat": 29.4826077,
+        "lng": -98.55980919999999
+      }
+    }
+  },
+  {
+    "name": "Seabrook, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.595059,
+        "lng": -94.9096139
+      },
+      "southwest": {
+        "lat": 29.5474461,
+        "lng": -95.05011909999999
+      }
+    }
+  },
+  {
+    "name": "Webster, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.555311,
+        "lng": -95.093693
+      },
+      "southwest": {
+        "lat": 29.506973,
+        "lng": -95.1462081
+      }
+    }
+  },
+  {
+    "name": "Everett, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.424097,
+        "lng": -71.0280959
+      },
+      "southwest": {
+        "lat": 42.386596,
+        "lng": -71.076419
+      }
+    }
+  },
+  {
+    "name": "Melbourne, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.199865,
+        "lng": -80.5746241
+      },
+      "southwest": {
+        "lat": 28.035096,
+        "lng": -80.7404849
+      }
+    }
+  },
+  {
+    "name": "Sunny Isles Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.9571764,
+        "lng": -80.1183504
+      },
+      "southwest": {
+        "lat": 25.9210419,
+        "lng": -80.1316839
+      }
+    }
+  },
+  {
+    "name": "Coconut Creek, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.327858,
+        "lng": -80.16656809999999
+      },
+      "southwest": {
+        "lat": 26.214281,
+        "lng": -80.20293579999999
+      }
+    }
+  },
+  {
+    "name": "Friendswood, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.5729561,
+        "lng": -95.1469209
+      },
+      "southwest": {
+        "lat": 29.45494099999999,
+        "lng": -95.233081
+      }
+    }
+  },
+  {
+    "name": "Inglewood, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9829701,
+        "lng": -118.313391
+      },
+      "southwest": {
+        "lat": 33.925177,
+        "lng": -118.3788499
+      }
+    }
+  },
+  {
+    "name": "Westerville, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.151583,
+        "lng": -82.8806141
+      },
+      "southwest": {
+        "lat": 40.0901549,
+        "lng": -82.971783
+      }
+    }
+  },
+  {
+    "name": "Tomball, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.1359881,
+        "lng": -95.589085
+      },
+      "southwest": {
+        "lat": 30.061293,
+        "lng": -95.66414999999999
+      }
+    }
+  },
+  {
+    "name": "Coronado, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 32.716143,
+        "lng": -117.114462
+      },
+      "southwest": {
+        "lat": 32.585574,
+        "lng": -117.2265349
+      }
+    }
+  },
+  {
+    "name": "Katy, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.8360818,
+        "lng": -95.7969729
+      },
+      "southwest": {
+        "lat": 29.7488304,
+        "lng": -95.9185696
+      }
+    }
+  },
+  {
+    "name": "Portland, OR",
+    "bounds": {
+      "northeast": {
+        "lat": 45.6528856,
+        "lng": -122.4719641
+      },
+      "southwest": {
+        "lat": 45.43254049999999,
+        "lng": -122.8366901
+      }
+    }
+  },
+  {
+    "name": "Laguna Niguel, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.57141310000001,
+        "lng": -117.6725131
+      },
+      "southwest": {
+        "lat": 33.4870946,
+        "lng": -117.740177
+      }
+    }
+  },
+  {
+    "name": "Scottsdale, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.900393,
+        "lng": -111.756092
+      },
+      "southwest": {
+        "lat": 33.448029,
+        "lng": -111.9608161
+      }
+    }
+  },
+  {
+    "name": "La Palma, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8660588,
+        "lng": -118.028497
+      },
+      "southwest": {
+        "lat": 33.8355405,
+        "lng": -118.058759
+      }
+    }
+  },
+  {
+    "name": "League City, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.55909389999999,
+        "lng": -94.99763390000001
+      },
+      "southwest": {
+        "lat": 29.4277489,
+        "lng": -95.22547
+      }
+    }
+  },
+  {
+    "name": "Smyrna, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9089869,
+        "lng": -84.469807
+      },
+      "southwest": {
+        "lat": 33.7995779,
+        "lng": -84.561735
+      }
+    }
+  },
+  {
+    "name": "Aventura, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.9750198,
+        "lng": -80.123261
+      },
+      "southwest": {
+        "lat": 25.931225,
+        "lng": -80.1505991
+      }
+    }
+  },
+  {
+    "name": "Dunwoody, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9709109,
+        "lng": -84.2650299
+      },
+      "southwest": {
+        "lat": 33.9151511,
+        "lng": -84.3480249
+      }
+    }
+  },
+  {
+    "name": "Glendale, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.2672319,
+        "lng": -118.1820051
+      },
+      "southwest": {
+        "lat": 34.118761,
+        "lng": -118.3078491
+      }
+    }
+  },
+  {
+    "name": "Plantation, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.160857,
+        "lng": -80.197469
+      },
+      "southwest": {
+        "lat": 26.0924999,
+        "lng": -80.3303139
+      }
+    }
+  },
+  {
+    "name": "Brandon, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.9780931,
+        "lng": -82.2438568
+      },
+      "southwest": {
+        "lat": 27.87887,
+        "lng": -82.3438948
+      }
+    }
+  },
+  {
+    "name": "Fremont, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.6066739,
+        "lng": -121.8702045
+      },
+      "southwest": {
+        "lat": 37.4541879,
+        "lng": -122.1534331
+      }
+    }
+  },
+  {
+    "name": "Montgomery, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.408269,
+        "lng": -95.6716649
+      },
+      "southwest": {
+        "lat": 30.3638459,
+        "lng": -95.73106109999999
+      }
+    }
+  },
+  {
+    "name": "Placentia, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9101949,
+        "lng": -117.8164365
+      },
+      "southwest": {
+        "lat": 33.85360380000001,
+        "lng": -117.8850227
+      }
+    }
+  },
+  {
+    "name": "Cypress, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.0505665,
+        "lng": -95.58608600000001
+      },
+      "southwest": {
+        "lat": 29.8752484,
+        "lng": -95.8084866
+      }
+    }
+  },
+  {
+    "name": "Bridgeton, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.8196498,
+        "lng": -90.37501499999999
+      },
+      "southwest": {
+        "lat": 38.7221509,
+        "lng": -90.4770479
+      }
+    }
+  },
+  {
+    "name": "Lake Worth, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.6465979,
+        "lng": -80.0353629
+      },
+      "southwest": {
+        "lat": 26.593951,
+        "lng": -80.0820541
+      }
+    }
+  },
+  {
+    "name": "Fresno, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 36.908905,
+        "lng": -119.6546399
+      },
+      "southwest": {
+        "lat": 36.66216190000001,
+        "lng": -119.934483
+      }
+    }
+  },
+  {
+    "name": "Lemon Grove, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 32.7502628,
+        "lng": -117.014389
+      },
+      "southwest": {
+        "lat": 32.7150839,
+        "lng": -117.063449
+      }
+    }
+  },
+  {
+    "name": "North Las Vegas, NV",
+    "bounds": {
+      "northeast": {
+        "lat": 36.33589,
+        "lng": -114.9586219
+      },
+      "southwest": {
+        "lat": 36.184827,
+        "lng": -115.2121
+      }
+    }
+  },
+  {
+    "name": "San Mateo, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.6021349,
+        "lng": -122.275478
+      },
+      "southwest": {
+        "lat": 37.510937,
+        "lng": -122.3557821
+      }
+    }
+  },
+  {
+    "name": "Sunnyvale, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.4612324,
+        "lng": -121.98267
+      },
+      "southwest": {
+        "lat": 37.330236,
+        "lng": -122.0650661
+      }
+    }
+  },
+  {
+    "name": "Henderson, NV",
+    "bounds": {
+      "northeast": {
+        "lat": 36.1249781,
+        "lng": -114.900364
+      },
+      "southwest": {
+        "lat": 35.891821,
+        "lng": -115.219363
+      }
+    }
+  },
+  {
+    "name": "Lithia, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.907743,
+        "lng": -82.0547163
+      },
+      "southwest": {
+        "lat": 27.7617169,
+        "lng": -82.269312
+      }
+    }
+  },
+  {
+    "name": "Coral Springs, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.3108559,
+        "lng": -80.2017218
+      },
+      "southwest": {
+        "lat": 26.22916,
+        "lng": -80.2976839
+      }
+    }
+  },
+  {
+    "name": "New Albany, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1194883,
+        "lng": -82.7187759
+      },
+      "southwest": {
+        "lat": 40.050362,
+        "lng": -82.8457686
+      }
+    }
+  },
+  {
+    "name": "Upland, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.151508,
+        "lng": -117.6192859
+      },
+      "southwest": {
+        "lat": 34.0865109,
+        "lng": -117.704595
+      }
+    }
+  },
+  {
+    "name": "Wesley Chapel, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.2809371,
+        "lng": -82.2458858
+      },
+      "southwest": {
+        "lat": 28.1699721,
+        "lng": -82.403449
+      }
+    }
+  },
+  {
+    "name": "Windermere, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.5153804,
+        "lng": -81.51159539999999
+      },
+      "southwest": {
+        "lat": 28.4853118,
+        "lng": -81.5497949
+      }
+    }
+  },
+  {
+    "name": "Hillsboro, OR",
+    "bounds": {
+      "northeast": {
+        "lat": 45.5757887,
+        "lng": -122.8595386
+      },
+      "southwest": {
+        "lat": 45.4763872,
+        "lng": -123.0118165
+      }
+    }
+  },
+  {
+    "name": "San Antonio, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.19266,
+        "lng": -122.5742726
+      },
+      "southwest": {
+        "lat": 38.1751189,
+        "lng": -122.6062874
+      }
+    }
+  },
+  {
+    "name": "Sandy Springs, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.010137,
+        "lng": -84.25808909999999
+      },
+      "southwest": {
+        "lat": 33.876579,
+        "lng": -84.447543
+      }
+    }
+  },
+  {
+    "name": "Cape Coral, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.77,
+        "lng": -81.899632
+      },
+      "southwest": {
+        "lat": 26.5252099,
+        "lng": -82.0918049
+      }
+    }
+  },
+  {
+    "name": "Hialeah, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.9279149,
+        "lng": -80.2529808
+      },
+      "southwest": {
+        "lat": 25.8061059,
+        "lng": -80.3737359
+      }
+    }
+  },
+  {
+    "name": "Rohnert Park, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.372513,
+        "lng": -122.6761
+      },
+      "southwest": {
+        "lat": 38.314215,
+        "lng": -122.732099
+      }
+    }
+  },
+  {
+    "name": "Estero, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.4565759,
+        "lng": -81.74280499999999
+      },
+      "southwest": {
+        "lat": 26.3893099,
+        "lng": -81.857353
+      }
+    }
+  },
+  {
+    "name": "Miami Lakes, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.9280791,
+        "lng": -80.292002
+      },
+      "southwest": {
+        "lat": 25.898148,
+        "lng": -80.350528
+      }
+    }
+  },
+  {
+    "name": "Aurora, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.826671,
+        "lng": -104.4889061
+      },
+      "southwest": {
+        "lat": 39.550999,
+        "lng": -104.884761
+      }
+    }
+  },
+  {
+    "name": "Marietta, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.0011701,
+        "lng": -84.4679379
+      },
+      "southwest": {
+        "lat": 33.8956108,
+        "lng": -84.616806
+      }
+    }
+  },
+  {
+    "name": "Fort Myers, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.689448,
+        "lng": -81.75081790000002
+      },
+      "southwest": {
+        "lat": 26.5478199,
+        "lng": -81.913778
+      }
+    }
+  },
+  {
+    "name": "Littleton, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.629955,
+        "lng": -104.972789
+      },
+      "southwest": {
+        "lat": 39.5353591,
+        "lng": -105.111985
+      }
+    }
+  },
+  {
+    "name": "Ocala, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 29.2267539,
+        "lng": -82.06153599999999
+      },
+      "southwest": {
+        "lat": 29.1210169,
+        "lng": -82.2520799
+      }
+    }
+  },
+  {
+    "name": "West Miami, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.7635628,
+        "lng": -80.287573
+      },
+      "southwest": {
+        "lat": 25.7480179,
+        "lng": -80.303901
+      }
+    }
+  },
+  {
+    "name": "Morrisville, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.868232,
+        "lng": -78.803575
+      },
+      "southwest": {
+        "lat": 35.7975981,
+        "lng": -78.8756569
+      }
+    }
+  },
+  {
+    "name": "West Hollywood, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.098071,
+        "lng": -118.34338
+      },
+      "southwest": {
+        "lat": 34.0763898,
+        "lng": -118.395844
+      }
+    }
+  },
+  {
+    "name": "Dunedin, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.094436,
+        "lng": -82.738141
+      },
+      "southwest": {
+        "lat": 27.9971731,
+        "lng": -82.8502579
+      }
+    }
+  },
+  {
+    "name": "Allston, Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.37437389999999,
+        "lng": -71.110533
+      },
+      "southwest": {
+        "lat": 42.3460228,
+        "lng": -71.143925
+      }
+    }
+  },
+  {
+    "name": "Tigard, OR",
+    "bounds": {
+      "northeast": {
+        "lat": 45.45643829999999,
+        "lng": -122.7435903
+      },
+      "southwest": {
+        "lat": 45.3932465,
+        "lng": -122.8568846
+      }
+    }
+  },
+  {
+    "name": "Orange, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8471814,
+        "lng": -117.7297706
+      },
+      "southwest": {
+        "lat": 33.7680868,
+        "lng": -117.9047361
+      }
+    }
+  },
+  {
+    "name": "Redondo Beach, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.894653,
+        "lng": -118.3523331
+      },
+      "southwest": {
+        "lat": 33.8146149,
+        "lng": -118.4019511
+      }
+    }
+  },
+  {
+    "name": "Monterey Park, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.071675,
+        "lng": -118.0934759
+      },
+      "southwest": {
+        "lat": 34.027181,
+        "lng": -118.169849
+      }
+    }
+  },
+  {
+    "name": "Celebration, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.3330871,
+        "lng": -81.5212389
+      },
+      "southwest": {
+        "lat": 28.2759889,
+        "lng": -81.5823461
+      }
+    }
+  },
+  {
+    "name": "Amarillo, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 35.2944749,
+        "lng": -101.6536839
+      },
+      "southwest": {
+        "lat": 35.109459,
+        "lng": -101.956197
+      }
+    }
+  },
+  {
+    "name": "Riverview, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.8950889,
+        "lng": -82.244339
+      },
+      "southwest": {
+        "lat": 27.82148,
+        "lng": -82.3490499
+      }
+    }
+  },
+  {
+    "name": "Pinellas Park, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.8954521,
+        "lng": -82.6638909
+      },
+      "southwest": {
+        "lat": 27.824581,
+        "lng": -82.757269
+      }
+    }
+  },
+  {
+    "name": "Peoria, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9553049,
+        "lng": -112.2028139
+      },
+      "southwest": {
+        "lat": 33.5506989,
+        "lng": -112.447299
+      }
+    }
+  },
+  {
+    "name": "Tucker, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8864269,
+        "lng": -84.1261091
+      },
+      "southwest": {
+        "lat": 33.8140681,
+        "lng": -84.2631562
+      }
+    }
+  },
+  {
+    "name": "Doraville, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9311751,
+        "lng": -84.2385233
+      },
+      "southwest": {
+        "lat": 33.8814484,
+        "lng": -84.2904609
+      }
+    }
+  },
+  {
+    "name": "La Porte, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.712747,
+        "lng": -94.99180899999999
+      },
+      "southwest": {
+        "lat": 29.6147219,
+        "lng": -95.11288479999999
+      }
+    }
+  },
+  {
+    "name": "Matthews, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.173344,
+        "lng": -80.654169
+      },
+      "southwest": {
+        "lat": 35.0809749,
+        "lng": -80.7634539
+      }
+    }
+  },
+  {
+    "name": "Coral Gables, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.771853,
+        "lng": -80.1956259
+      },
+      "southwest": {
+        "lat": 25.609988,
+        "lng": -80.30130000000001
+      }
+    }
+  },
+  {
+    "name": "Charlestown, Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.3897705,
+        "lng": -71.04429809999999
+      },
+      "southwest": {
+        "lat": 42.3688756,
+        "lng": -71.0734062
+      }
+    }
+  },
+  {
+    "name": "Boynton Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.5727851,
+        "lng": -80.048953
+      },
+      "southwest": {
+        "lat": 26.483363,
+        "lng": -80.114947
+      }
+    }
+  },
+  {
+    "name": "Reynoldsburg, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 39.987887,
+        "lng": -82.7408629
+      },
+      "southwest": {
+        "lat": 39.931447,
+        "lng": -82.83589479999999
+      }
+    }
+  },
+  {
+    "name": "Glendale, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.6980409,
+        "lng": -112.151471
+      },
+      "southwest": {
+        "lat": 33.50796589999999,
+        "lng": -112.4614321
+      }
+    }
+  },
+  {
+    "name": "Dublin, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1632729,
+        "lng": -83.089778
+      },
+      "southwest": {
+        "lat": 40.0636839,
+        "lng": -83.2020691
+      }
+    }
+  },
+  {
+    "name": "Vancouver, WA",
+    "bounds": {
+      "northeast": {
+        "lat": 45.6976919,
+        "lng": -122.4644968
+      },
+      "southwest": {
+        "lat": 45.57858239999999,
+        "lng": -122.7732739
+      }
+    }
+  },
+  {
+    "name": "Thornton, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 40.000515,
+        "lng": -104.8840649
+      },
+      "southwest": {
+        "lat": 39.8308589,
+        "lng": -105.015536
+      }
+    }
+  },
+  {
+    "name": "Palm Beach Gardens, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.8981313,
+        "lng": -80.0574134
+      },
+      "southwest": {
+        "lat": 26.7805845,
+        "lng": -80.2693571
+      }
+    }
+  },
+  {
+    "name": "Santa Clara, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.418939,
+        "lng": -121.9297351
+      },
+      "southwest": {
+        "lat": 37.3228419,
+        "lng": -122.00537
+      }
+    }
+  },
+  {
+    "name": "Hilliard, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.068733,
+        "lng": -83.09734689999999
+      },
+      "southwest": {
+        "lat": 40.0041948,
+        "lng": -83.196862
+      }
+    }
+  },
+  {
+    "name": "St. Petersburg, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.9139009,
+        "lng": -82.5406181
+      },
+      "southwest": {
+        "lat": 27.6436379,
+        "lng": -82.7690229
+      }
+    }
+  },
+  {
+    "name": "Rancho Palos Verdes, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.79547,
+        "lng": -118.301
+      },
+      "southwest": {
+        "lat": 33.721862,
+        "lng": -118.418691
+      }
+    }
+  },
+  {
+    "name": "Rancho Cucamonga, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.1713799,
+        "lng": -117.478789
+      },
+      "southwest": {
+        "lat": 34.0765269,
+        "lng": -117.636887
+      }
+    }
+  },
+  {
+    "name": "Chino, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.047811,
+        "lng": -117.5995851
+      },
+      "southwest": {
+        "lat": 33.9250139,
+        "lng": -117.735889
+      }
+    }
+  },
+  {
+    "name": "Pasadena, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.251905,
+        "lng": -118.0654789
+      },
+      "southwest": {
+        "lat": 34.1170368,
+        "lng": -118.1981391
+      }
+    }
+  },
+  {
+    "name": "Sandy, UT",
+    "bounds": {
+      "northeast": {
+        "lat": 40.617147,
+        "lng": -111.77682
+      },
+      "southwest": {
+        "lat": 40.5276621,
+        "lng": -111.9216004
+      }
+    }
+  },
+  {
+    "name": "Altamonte Springs, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.6900431,
+        "lng": -81.3435949
+      },
+      "southwest": {
+        "lat": 28.640048,
+        "lng": -81.443438
+      }
+    }
+  },
+  {
+    "name": "Deerfield Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.3278561,
+        "lng": -80.07486399999999
+      },
+      "southwest": {
+        "lat": 26.274402,
+        "lng": -80.1699249
+      }
+    }
+  },
+  {
+    "name": "Kissimmee, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.347966,
+        "lng": -81.314307
+      },
+      "southwest": {
+        "lat": 28.250464,
+        "lng": -81.485658
+      }
+    }
+  },
+  {
+    "name": "Greenwood Village, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.646133,
+        "lng": -104.847625
+      },
+      "southwest": {
+        "lat": 39.58758590000001,
+        "lng": -104.9806369
+      }
+    }
+  },
+  {
+    "name": "Jersey City, NJ",
+    "bounds": {
+      "northeast": {
+        "lat": 40.768867,
+        "lng": -74.020405
+      },
+      "southwest": {
+        "lat": 40.661622,
+        "lng": -74.1170569
+      }
+    }
+  },
+  {
+    "name": "King of Prussia, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.117507,
+        "lng": -75.3433301
+      },
+      "southwest": {
+        "lat": 40.072009,
+        "lng": -75.4196319
+      }
+    }
+  },
+  {
+    "name": "Lewis Center, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.214004,
+        "lng": -82.95656939999999
+      },
+      "southwest": {
+        "lat": 40.17246859999999,
+        "lng": -83.0390528
+      }
+    }
+  },
+  {
+    "name": "Cedar Park, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.553367,
+        "lng": -97.74521279999999
+      },
+      "southwest": {
+        "lat": 30.455388,
+        "lng": -97.88851000000001
+      }
+    }
+  },
+  {
+    "name": "Spring Valley, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 32.755024,
+        "lng": -116.94029
+      },
+      "southwest": {
+        "lat": 32.7038528,
+        "lng": -117.018569
+      }
+    }
+  },
+  {
+    "name": "Winter Garden, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.595144,
+        "lng": -81.5563949
+      },
+      "southwest": {
+        "lat": 28.497022,
+        "lng": -81.6574052
+      }
+    }
+  },
+  {
+    "name": "Odessa, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.1950641,
+        "lng": -82.515879
+      },
+      "southwest": {
+        "lat": 28.172714,
+        "lng": -82.5924299
+      }
+    }
+  },
+  {
+    "name": "Camarillo, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.252731,
+        "lng": -118.9584
+      },
+      "southwest": {
+        "lat": 34.1913659,
+        "lng": -119.1097071
+      }
+    }
+  },
+  {
+    "name": "Magnolia, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 30.22845199999999,
+        "lng": -95.73414
+      },
+      "southwest": {
+        "lat": 30.1921039,
+        "lng": -95.760032
+      }
+    }
+  },
+  {
+    "name": "Gahanna, OH",
+    "bounds": {
+      "northeast": {
+        "lat": 40.0561939,
+        "lng": -82.81013589999999
+      },
+      "southwest": {
+        "lat": 39.987086,
+        "lng": -82.904459
+      }
+    }
+  },
+  {
+    "name": "Mansfield, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.6160249,
+        "lng": -97.0468209
+      },
+      "southwest": {
+        "lat": 32.51274190000001,
+        "lng": -97.1867718
+      }
+    }
+  },
+  {
+    "name": "Lafayette Hill, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1089891,
+        "lng": -75.2277758
+      },
+      "southwest": {
+        "lat": 40.05921,
+        "lng": -75.285084
+      }
+    }
+  },
+  {
+    "name": "Gainesville, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 29.770553,
+        "lng": -82.218976
+      },
+      "southwest": {
+        "lat": 29.601988,
+        "lng": -82.42051599999999
+      }
+    }
+  },
+  {
+    "name": "Selma, TX 78154",
+    "bounds": {
+      "northeast": {
+        "lat": 29.6076139,
+        "lng": -98.2845469
+      },
+      "southwest": {
+        "lat": 29.5607231,
+        "lng": -98.34214
+      }
+    }
+  },
+  {
+    "name": "Woodland Hills, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.1908785,
+        "lng": -118.5613847
+      },
+      "southwest": {
+        "lat": 34.129826,
+        "lng": -118.6681366
+      }
+    }
+  },
+  {
+    "name": "Medford, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.453395,
+        "lng": -71.0718321
+      },
+      "southwest": {
+        "lat": 42.3961028,
+        "lng": -71.1497979
+      }
+    }
+  },
+  {
+    "name": "Mesa, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.513376,
+        "lng": -111.580636
+      },
+      "southwest": {
+        "lat": 33.2776239,
+        "lng": -111.894881
+      }
+    }
+  },
+  {
+    "name": "North Hollywood, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.2156039,
+        "lng": -118.3445111
+      },
+      "southwest": {
+        "lat": 34.16824,
+        "lng": -118.4275148
+      }
+    }
+  },
+  {
+    "name": "Apopka, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.7860889,
+        "lng": -81.459526
+      },
+      "southwest": {
+        "lat": 28.62164,
+        "lng": -81.588363
+      }
+    }
+  },
+  {
+    "name": "Wynnewood, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.022211,
+        "lng": -75.2514546
+      },
+      "southwest": {
+        "lat": 39.9769549,
+        "lng": -75.29262899999999
+      }
+    }
+  },
+  {
+    "name": "New Smyrna Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 29.0837439,
+        "lng": -80.86697389999999
+      },
+      "southwest": {
+        "lat": 28.975345,
+        "lng": -81.04284299999999
+      }
+    }
+  },
+  {
+    "name": "Jamaica Plain, Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.331997,
+        "lng": -71.0975505
+      },
+      "southwest": {
+        "lat": 42.29569790000001,
+        "lng": -71.1400973
+      }
+    }
+  },
+  {
+    "name": "Quincy, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.3135981,
+        "lng": -70.93769089999999
+      },
+      "southwest": {
+        "lat": 42.204256,
+        "lng": -71.0932991
+      }
+    }
+  },
+  {
+    "name": "Monrovia, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.194181,
+        "lng": -117.941536
+      },
+      "southwest": {
+        "lat": 34.102902,
+        "lng": -118.022046
+      }
+    }
+  },
+  {
+    "name": "North Bay Village, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.856073,
+        "lng": -80.143168
+      },
+      "southwest": {
+        "lat": 25.8427741,
+        "lng": -80.1617681
+      }
+    }
+  },
+  {
+    "name": "Narberth, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.0134661,
+        "lng": -75.2522492
+      },
+      "southwest": {
+        "lat": 40.0005637,
+        "lng": -75.2729988
+      }
+    }
+  },
+  {
+    "name": "Bonita Springs, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.4074221,
+        "lng": -81.6579
+      },
+      "southwest": {
+        "lat": 26.3162338,
+        "lng": -81.88644409999999
+      }
+    }
+  },
+  {
+    "name": "DeSoto, TX 75115",
+    "bounds": {
+      "northeast": {
+        "lat": 32.6476129,
+        "lng": -96.822206
+      },
+      "southwest": {
+        "lat": 32.5648422,
+        "lng": -96.9083989
+      }
+    }
+  },
+  {
+    "name": "Miami Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.8728059,
+        "lng": -80.110192
+      },
+      "southwest": {
+        "lat": 25.7476771,
+        "lng": -80.170091
+      }
+    }
+  },
+  {
+    "name": "Conshohocken, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.0874788,
+        "lng": -75.2899745
+      },
+      "southwest": {
+        "lat": 40.0689419,
+        "lng": -75.31632189999999
+      }
+    }
+  },
+  {
+    "name": "Oak Park, IL",
+    "bounds": {
+      "northeast": {
+        "lat": 41.90933090000001,
+        "lng": -87.774057
+      },
+      "southwest": {
+        "lat": 41.864931,
+        "lng": -87.805859
+      }
+    }
+  },
+  {
+    "name": "Pacifica, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.6668289,
+        "lng": -122.4433849
+      },
+      "southwest": {
+        "lat": 37.5660369,
+        "lng": -122.5148869
+      }
+    }
+  },
+  {
+    "name": "Revere, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.4500959,
+        "lng": -70.9507929
+      },
+      "southwest": {
+        "lat": 42.3881159,
+        "lng": -71.033051
+      }
+    }
+  },
+  {
+    "name": "Prosper, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.26287,
+        "lng": -96.732486
+      },
+      "southwest": {
+        "lat": 33.218531,
+        "lng": -96.89805
+      }
+    }
+  },
+  {
+    "name": "Homestead, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.499009,
+        "lng": -80.403775
+      },
+      "southwest": {
+        "lat": 25.440547,
+        "lng": -80.501921
+      }
+    }
+  },
+  {
+    "name": "Palmetto Bay, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.645432,
+        "lng": -80.2876409
+      },
+      "southwest": {
+        "lat": 25.598591,
+        "lng": -80.354181
+      }
+    }
+  },
+  {
+    "name": "Palm Springs, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.664554,
+        "lng": -80.08115389999999
+      },
+      "southwest": {
+        "lat": 26.6147579,
+        "lng": -80.1130079
+      }
+    }
+  },
+  {
+    "name": "Oviedo, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.6921191,
+        "lng": -81.13415309999999
+      },
+      "southwest": {
+        "lat": 28.6265691,
+        "lng": -81.2416228
+      }
+    }
+  },
+  {
+    "name": "San Dimas, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.166951,
+        "lng": -117.772478
+      },
+      "southwest": {
+        "lat": 34.0635639,
+        "lng": -117.854059
+      }
+    }
+  },
+  {
+    "name": "Lancaster, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.76885499999999,
+        "lng": -117.938403
+      },
+      "southwest": {
+        "lat": 34.6309439,
+        "lng": -118.325179
+      }
+    }
+  },
+  {
+    "name": "Canoga Park, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.2354734,
+        "lng": -118.5884441
+      },
+      "southwest": {
+        "lat": 34.1864444,
+        "lng": -118.6234765
+      }
+    }
+  },
+  {
+    "name": "Calabasas, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.1685159,
+        "lng": -118.605703
+      },
+      "southwest": {
+        "lat": 34.103912,
+        "lng": -118.719685
+      }
+    }
+  },
+  {
+    "name": "St Ann, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.7468632,
+        "lng": -90.369615
+      },
+      "southwest": {
+        "lat": 38.7090178,
+        "lng": -90.4059169
+      }
+    }
+  },
+  {
+    "name": "Pembroke Pines, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.0610217,
+        "lng": -80.21336889999999
+      },
+      "southwest": {
+        "lat": 25.9921689,
+        "lng": -80.4422089
+      }
+    }
+  },
+  {
+    "name": "Rowland Heights, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.000562,
+        "lng": -117.8501881
+      },
+      "southwest": {
+        "lat": 33.9590289,
+        "lng": -117.9303959
+      }
+    }
+  },
+  {
+    "name": "West Valley City, UT",
+    "bounds": {
+      "northeast": {
+        "lat": 40.7262451,
+        "lng": -111.91937
+      },
+      "southwest": {
+        "lat": 40.630928,
+        "lng": -112.094963
+      }
+    }
+  },
+  {
+    "name": "Pleasant Hill, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.9821471,
+        "lng": -122.0499731
+      },
+      "southwest": {
+        "lat": 37.925123,
+        "lng": -122.1047751
+      }
+    }
+  },
+  {
+    "name": "Euless, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.881659,
+        "lng": -97.03308779999999
+      },
+      "southwest": {
+        "lat": 32.8107971,
+        "lng": -97.1559829
+      }
+    }
+  },
+  {
+    "name": "Corte Madera, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.9421241,
+        "lng": -122.481384
+      },
+      "southwest": {
+        "lat": 37.9078249,
+        "lng": -122.5396869
+      }
+    }
+  },
+  {
+    "name": "Indian Trail, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.132731,
+        "lng": -80.5767899
+      },
+      "southwest": {
+        "lat": 35.01717,
+        "lng": -80.72689679999999
+      }
+    }
+  },
+  {
+    "name": "Bryn Mawr, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.031607,
+        "lng": -75.3029289
+      },
+      "southwest": {
+        "lat": 40.01591080000001,
+        "lng": -75.32627819999999
+      }
+    }
+  },
+  {
+    "name": "Missouri City, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.641592,
+        "lng": -95.478049
+      },
+      "southwest": {
+        "lat": 29.4559011,
+        "lng": -95.5951851
+      }
+    }
+  },
+  {
+    "name": "Azle, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9602329,
+        "lng": -97.50871599999999
+      },
+      "southwest": {
+        "lat": 32.859836,
+        "lng": -97.591213
+      }
+    }
+  },
+  {
+    "name": "La Jolla, San Diego, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 32.939665,
+        "lng": -117.2140144
+      },
+      "southwest": {
+        "lat": 32.8053774,
+        "lng": -117.2831297
+      }
+    }
+  },
+  {
+    "name": "Glenview, IL",
+    "bounds": {
+      "northeast": {
+        "lat": 42.115182,
+        "lng": -87.7586609
+      },
+      "southwest": {
+        "lat": 42.055029,
+        "lng": -87.8933869
+      }
+    }
+  },
+  {
+    "name": "Port St. Lucie, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.3743811,
+        "lng": -80.24431
+      },
+      "southwest": {
+        "lat": 27.205584,
+        "lng": -80.481546
+      }
+    }
+  },
+  {
+    "name": "Chandler, AZ",
+    "bounds": {
+      "northeast": {
+        "lat": 33.3618571,
+        "lng": -111.755287
+      },
+      "southwest": {
+        "lat": 33.2037779,
+        "lng": -111.9724189
+      }
+    }
+  },
+  {
+    "name": "Pittsburgh, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.501368,
+        "lng": -79.8657231
+      },
+      "southwest": {
+        "lat": 40.3613689,
+        "lng": -80.0952779
+      }
+    }
+  },
+  {
+    "name": "Rockwall, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.9819959,
+        "lng": -96.375011
+      },
+      "southwest": {
+        "lat": 32.8638869,
+        "lng": -96.49570489999999
+      }
+    }
+  },
+  {
+    "name": "Boerne, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.832044,
+        "lng": -98.6877908
+      },
+      "southwest": {
+        "lat": 29.745514,
+        "lng": -98.80228609999999
+      }
+    }
+  },
+  {
+    "name": "Chino Hills, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.0238109,
+        "lng": -117.6548851
+      },
+      "southwest": {
+        "lat": 33.8708309,
+        "lng": -117.8028909
+      }
+    }
+  },
+  {
+    "name": "San Pedro, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7820801,
+        "lng": -118.231803
+      },
+      "southwest": {
+        "lat": 33.696923,
+        "lng": -118.335337
+      }
+    }
+  },
+  {
+    "name": "Santa Ana, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7840132,
+        "lng": -117.8303496
+      },
+      "southwest": {
+        "lat": 33.691654,
+        "lng": -117.9439458
+      }
+    }
+  },
+  {
+    "name": "Torrance, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.8870609,
+        "lng": -118.308127
+      },
+      "southwest": {
+        "lat": 33.780217,
+        "lng": -118.3940909
+      }
+    }
+  },
+  {
+    "name": "Gulfport, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.764592,
+        "lng": -82.686328
+      },
+      "southwest": {
+        "lat": 27.727807,
+        "lng": -82.7307019
+      }
+    }
+  },
+  {
+    "name": "Carlsbad, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.182625,
+        "lng": -117.216168
+      },
+      "southwest": {
+        "lat": 33.0604141,
+        "lng": -117.359436
+      }
+    }
+  },
+  {
+    "name": "Brighton, Boston, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.3601961,
+        "lng": -71.1225359
+      },
+      "southwest": {
+        "lat": 42.33009699999999,
+        "lng": -71.1747978
+      }
+    }
+  },
+  {
+    "name": "Bakersfield, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 35.4479751,
+        "lng": -118.7723409
+      },
+      "southwest": {
+        "lat": 35.193979,
+        "lng": -119.265033
+      }
+    }
+  },
+  {
+    "name": "Menlo Park, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.5342714,
+        "lng": -122.081473
+      },
+      "southwest": {
+        "lat": 37.418539,
+        "lng": -122.228677
+      }
+    }
+  },
+  {
+    "name": "Santa Rosa, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.507397,
+        "lng": -122.5730251
+      },
+      "southwest": {
+        "lat": 38.363703,
+        "lng": -122.8340651
+      }
+    }
+  },
+  {
+    "name": "Dania Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.091565,
+        "lng": -80.106366
+      },
+      "southwest": {
+        "lat": 26.0334668,
+        "lng": -80.2077669
+      }
+    }
+  },
+  {
+    "name": "Belmont, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.5347359,
+        "lng": -122.261529
+      },
+      "southwest": {
+        "lat": 37.497533,
+        "lng": -122.328981
+      }
+    }
+  },
+  {
+    "name": "Solana Beach, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.0086019,
+        "lng": -117.236732
+      },
+      "southwest": {
+        "lat": 32.979374,
+        "lng": -117.279456
+      }
+    }
+  },
+  {
+    "name": "St Cloud, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.2676891,
+        "lng": -81.2021619
+      },
+      "southwest": {
+        "lat": 28.1731919,
+        "lng": -81.33997490000002
+      }
+    }
+  },
+  {
+    "name": "Fairview, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.1606049,
+        "lng": -96.576453
+      },
+      "southwest": {
+        "lat": 33.123156,
+        "lng": -96.6596819
+      }
+    }
+  },
+  {
+    "name": "Moreno Valley, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.984516,
+        "lng": -117.0880771
+      },
+      "southwest": {
+        "lat": 33.859073,
+        "lng": -117.2967751
+      }
+    }
+  },
+  {
+    "name": "Weston, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.1460379,
+        "lng": -80.36213289999999
+      },
+      "southwest": {
+        "lat": 26.061452,
+        "lng": -80.4504789
+      }
+    }
+  },
+  {
+    "name": "Palm Harbor, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.123066,
+        "lng": -82.7087699
+      },
+      "southwest": {
+        "lat": 28.048667,
+        "lng": -82.84828999999999
+      }
+    }
+  },
+  {
+    "name": "Downey, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.972899,
+        "lng": -118.0902619
+      },
+      "southwest": {
+        "lat": 33.9024549,
+        "lng": -118.170584
+      }
+    }
+  },
+  {
+    "name": "Kemah, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.5491219,
+        "lng": -95.001689
+      },
+      "southwest": {
+        "lat": 29.513476,
+        "lng": -95.033841
+      }
+    }
+  },
+  {
+    "name": "Huntington Beach, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.7561955,
+        "lng": -117.9403837
+      },
+      "southwest": {
+        "lat": 33.6297778,
+        "lng": -118.0826424
+      }
+    }
+  },
+  {
+    "name": "Burbank, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.221654,
+        "lng": -118.2801091
+      },
+      "southwest": {
+        "lat": 34.1423669,
+        "lng": -118.3703131
+      }
+    }
+  },
+  {
+    "name": "Land O' Lakes, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.3245048,
+        "lng": -82.4020407
+      },
+      "southwest": {
+        "lat": 28.1722199,
+        "lng": -82.5482688
+      }
+    }
+  },
+  {
+    "name": "Lutz, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.1958783,
+        "lng": -82.394083
+      },
+      "southwest": {
+        "lat": 28.0909479,
+        "lng": -82.502511
+      }
+    }
+  },
+  {
+    "name": "Rowlett, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.975361,
+        "lng": -96.5017869
+      },
+      "southwest": {
+        "lat": 32.869788,
+        "lng": -96.59313490000001
+      }
+    }
+  },
+  {
+    "name": "Maitland, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.640541,
+        "lng": -81.32826200000001
+      },
+      "southwest": {
+        "lat": 28.6105333,
+        "lng": -81.41064
+      }
+    }
+  },
+  {
+    "name": "Berkeley, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.9066895,
+        "lng": -122.2341961
+      },
+      "southwest": {
+        "lat": 37.8356375,
+        "lng": -122.3686793
+      }
+    }
+  },
+  {
+    "name": "The Colony, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.139502,
+        "lng": -96.842367
+      },
+      "southwest": {
+        "lat": 33.0466361,
+        "lng": -96.9601699
+      }
+    }
+  },
+  {
+    "name": "Largo, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.9432791,
+        "lng": -82.6962789
+      },
+      "southwest": {
+        "lat": 27.875044,
+        "lng": -82.8454139
+      }
+    }
+  },
+  {
+    "name": "Clayton, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.657951,
+        "lng": -90.302814
+      },
+      "southwest": {
+        "lat": 38.6335509,
+        "lng": -90.353815
+      }
+    }
+  },
+  {
+    "name": "Napa, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 38.3508341,
+        "lng": -122.2221959
+      },
+      "southwest": {
+        "lat": 38.221091,
+        "lng": -122.357721
+      }
+    }
+  },
+  {
+    "name": "Renton, WA",
+    "bounds": {
+      "northeast": {
+        "lat": 47.53982,
+        "lng": -122.1204853
+      },
+      "southwest": {
+        "lat": 47.4229841,
+        "lng": -122.2540557
+      }
+    }
+  },
+  {
+    "name": "West Covina, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.0924931,
+        "lng": -117.8582611
+      },
+      "southwest": {
+        "lat": 34.001855,
+        "lng": -117.967138
+      }
+    }
+  },
+  {
+    "name": "Hiram, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.91209,
+        "lng": -84.731438
+      },
+      "southwest": {
+        "lat": 33.8303731,
+        "lng": -84.8340778
+      }
+    }
+  },
+  {
+    "name": "Riverside, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.01951409999999,
+        "lng": -117.275174
+      },
+      "southwest": {
+        "lat": 33.872517,
+        "lng": -117.523882
+      }
+    }
+  },
+  {
+    "name": "Cicero, IL",
+    "bounds": {
+      "northeast": {
+        "lat": 41.8659319,
+        "lng": -87.7386492
+      },
+      "southwest": {
+        "lat": 41.821532,
+        "lng": -87.7789569
+      }
+    }
+  },
+  {
+    "name": "Sarasota, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 27.3892091,
+        "lng": -82.478641
+      },
+      "southwest": {
+        "lat": 27.2825251,
+        "lng": -82.59721979999999
+      }
+    }
+  },
+  {
+    "name": "Rancho Santa Margarita, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.6698422,
+        "lng": -117.5520254
+      },
+      "southwest": {
+        "lat": 33.5860344,
+        "lng": -117.6382603
+      }
+    }
+  },
+  {
+    "name": "Bala Cynwyd, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.031962,
+        "lng": -75.20492290000001
+      },
+      "southwest": {
+        "lat": 39.996812,
+        "lng": -75.24662500000001
+      }
+    }
+  },
+  {
+    "name": "Hitchcock, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.3751861,
+        "lng": -94.9057589
+      },
+      "southwest": {
+        "lat": 29.147712,
+        "lng": -95.1450399
+      }
+    }
+  },
+  {
+    "name": "Allen, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.157565,
+        "lng": -96.60880879999999
+      },
+      "southwest": {
+        "lat": 33.0708109,
+        "lng": -96.736575
+      }
+    }
+  },
+  {
+    "name": "Chesterfield, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.692284,
+        "lng": -90.4883519
+      },
+      "southwest": {
+        "lat": 38.61055289999999,
+        "lng": -90.680026
+      }
+    }
+  },
+  {
+    "name": "Wylie, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.10033,
+        "lng": -96.42320889999999
+      },
+      "southwest": {
+        "lat": 32.968269,
+        "lng": -96.59561699999999
+      }
+    }
+  },
+  {
+    "name": "San Juan Capistrano, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.5461754,
+        "lng": -117.6108119
+      },
+      "southwest": {
+        "lat": 33.4665015,
+        "lng": -117.6867648
+      }
+    }
+  },
+  {
+    "name": "Foster City, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.6064316,
+        "lng": -122.1633444
+      },
+      "southwest": {
+        "lat": 37.5339879,
+        "lng": -122.288479
+      }
+    }
+  },
+  {
+    "name": "Duluth, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.0332821,
+        "lng": -84.094771
+      },
+      "southwest": {
+        "lat": 33.9669978,
+        "lng": -84.18216
+      }
+    }
+  },
+  {
+    "name": "Brookline, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.3518109,
+        "lng": -71.1056969
+      },
+      "southwest": {
+        "lat": 42.29459689999999,
+        "lng": -71.1789959
+      }
+    }
+  },
+  {
+    "name": "Mt Holly, NC",
+    "bounds": {
+      "northeast": {
+        "lat": 35.3616161,
+        "lng": -80.946209
+      },
+      "southwest": {
+        "lat": 35.2572781,
+        "lng": -81.05443799999999
+      }
+    }
+  },
+  {
+    "name": "Belmont, MA",
+    "bounds": {
+      "northeast": {
+        "lat": 42.415492,
+        "lng": -71.15235609999999
+      },
+      "southwest": {
+        "lat": 42.3751719,
+        "lng": -71.210899
+      }
+    }
+  },
+  {
+    "name": "North Miami, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.9302708,
+        "lng": -80.1266679
+      },
+      "southwest": {
+        "lat": 25.880872,
+        "lng": -80.2275429
+      }
+    }
+  },
+  {
+    "name": "Van Nuys, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.2214767,
+        "lng": -118.4269219
+      },
+      "southwest": {
+        "lat": 34.1793875,
+        "lng": -118.4751157
+      }
+    }
+  },
+  {
+    "name": "Lantana, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.596273,
+        "lng": -80.0310629
+      },
+      "southwest": {
+        "lat": 26.5692969,
+        "lng": -80.0736751
+      }
+    }
+  },
+  {
+    "name": "Ballwin, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.6250659,
+        "lng": -90.51076309999999
+      },
+      "southwest": {
+        "lat": 38.5599529,
+        "lng": -90.585523
+      }
+    }
+  },
+  {
+    "name": "Zionsville, IN",
+    "bounds": {
+      "northeast": {
+        "lat": 39.990847,
+        "lng": -86.240743
+      },
+      "southwest": {
+        "lat": 39.93093210000001,
+        "lng": -86.317544
+      }
+    }
+  },
+  {
+    "name": "Margate, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.274158,
+        "lng": -80.190139
+      },
+      "southwest": {
+        "lat": 26.2105141,
+        "lng": -80.233668
+      }
+    }
+  },
+  {
+    "name": "Wyncote, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.0978099,
+        "lng": -75.1317808
+      },
+      "southwest": {
+        "lat": 40.0837276,
+        "lng": -75.1605269
+      }
+    }
+  },
+  {
+    "name": "Royal Palm Beach, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 26.736402,
+        "lng": -80.189965
+      },
+      "southwest": {
+        "lat": 26.6655389,
+        "lng": -80.2570499
+      }
+    }
+  },
+  {
+    "name": "Jersey Village, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.907029,
+        "lng": -95.549854
+      },
+      "southwest": {
+        "lat": 29.872276,
+        "lng": -95.60401309999999
+      }
+    }
+  },
+  {
+    "name": "San Carlos, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.522081,
+        "lng": -122.237276
+      },
+      "southwest": {
+        "lat": 37.4747201,
+        "lng": -122.3033619
+      }
+    }
+  },
+  {
+    "name": "Trinity, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.2059541,
+        "lng": -82.6003218
+      },
+      "southwest": {
+        "lat": 28.1732469,
+        "lng": -82.6991881
+      }
+    }
+  },
+  {
+    "name": "Milpitas, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 37.46684,
+        "lng": -121.838469
+      },
+      "southwest": {
+        "lat": 37.39614,
+        "lng": -121.9314679
+      }
+    }
+  },
+  {
+    "name": "Creve Coeur, MO",
+    "bounds": {
+      "northeast": {
+        "lat": 38.687151,
+        "lng": -90.3941169
+      },
+      "southwest": {
+        "lat": 38.64075760000001,
+        "lng": -90.4922129
+      }
+    }
+  },
+  {
+    "name": "South Miami, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 25.73404,
+        "lng": -80.2848559
+      },
+      "southwest": {
+        "lat": 25.6893731,
+        "lng": -80.30690709999999
+      }
+    }
+  },
+  {
+    "name": "Rockledge, FL",
+    "bounds": {
+      "northeast": {
+        "lat": 28.3494849,
+        "lng": -80.693876
+      },
+      "southwest": {
+        "lat": 28.2779299,
+        "lng": -80.7799161
+      }
+    }
+  },
+  {
+    "name": "Newport Beach, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.671753,
+        "lng": -117.7839003
+      },
+      "southwest": {
+        "lat": 33.5642657,
+        "lng": -117.9572316
+      }
+    }
+  },
+  {
+    "name": "Covina, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.107035,
+        "lng": -117.8405489
+      },
+      "southwest": {
+        "lat": 34.0679559,
+        "lng": -117.927295
+      }
+    }
+  },
+  {
+    "name": "Nassau Bay, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.558663,
+        "lng": -95.070544
+      },
+      "southwest": {
+        "lat": 29.5311281,
+        "lng": -95.1048979
+      }
+    }
+  },
+  {
+    "name": "Converse, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 29.538635,
+        "lng": -98.27398790000001
+      },
+      "southwest": {
+        "lat": 29.486155,
+        "lng": -98.3423299
+      }
+    }
+  },
+  {
+    "name": "Denton, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 33.358306,
+        "lng": -97.0238129
+      },
+      "southwest": {
+        "lat": 33.116875,
+        "lng": -97.2664899
+      }
+    }
+  },
+  {
+    "name": "Westminster, CO",
+    "bounds": {
+      "northeast": {
+        "lat": 39.9685441,
+        "lng": -104.9876704
+      },
+      "southwest": {
+        "lat": 39.8181201,
+        "lng": -105.1655182
+      }
+    }
+  },
+  {
+    "name": "White Settlement, TX",
+    "bounds": {
+      "northeast": {
+        "lat": 32.7851639,
+        "lng": -97.429214
+      },
+      "southwest": {
+        "lat": 32.7377721,
+        "lng": -97.48008700000001
+      }
+    }
+  },
+  {
+    "name": "Chamblee, GA",
+    "bounds": {
+      "northeast": {
+        "lat": 33.9204127,
+        "lng": -84.2730011
+      },
+      "southwest": {
+        "lat": 33.8405948,
+        "lng": -84.32230609999999
+      }
+    }
+  },
+  {
+    "name": "Studio City, Los Angeles, CA",
+    "bounds": {
+      "northeast": {
+        "lat": 34.1566619,
+        "lng": -118.3500453
+      },
+      "southwest": {
+        "lat": 34.123407,
+        "lng": -118.4272132
+      }
+    }
+  },
+  {
+    "name": "Hatboro, PA",
+    "bounds": {
+      "northeast": {
+        "lat": 40.1911039,
+        "lng": -75.090195
+      },
+      "southwest": {
+        "lat": 40.16430889999999,
+        "lng": -75.12301699999999
+      }
+    }
+  }
+]

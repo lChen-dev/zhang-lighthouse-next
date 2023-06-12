@@ -1,0 +1,16 @@
+.ref-hero {
+  height: 625px;
+  max-height: 625px;
+  min-height: 625px;
+  z-index: 1;
+  background: #F9F9F9;
+}
+
+/* lg */
+@media (min-width: 1024px) {
+  .ref-hero {
+    height: 750px;
+    max-height: 750px;
+    min-height: 750px;
+  }
+}

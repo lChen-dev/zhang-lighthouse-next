@@ -1,0 +1,149 @@
+.DefaultProgressBar__vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .DefaultProgressBar_progressBar {
+    background-color: #e0e0e0;
+    position: absolute;
+  }
+  .DefaultProgressBar_progressBar__vertical {
+    height: 100%;
+    width: 24px;
+  }
+  .DefaultProgressBar_background__vertical {
+    height: 100%;
+    top: 0px;
+    width: 1px;
+  }
+  .DefaultProgressBar_background__horizontal {
+    height: 1px;
+    top: 0px;
+  }
+  .DefaultHandle_handle {
+    width: 18px;
+    height: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #d8d8d8;
+    background-color: #fcfcfc;
+    border-radius: 3px;
+    outline: none;
+    z-index: 2;
+  }
+  .DefaultHandle_handle:focus {
+    box-shadow: #abc4e8 0 0 1px 1px;
+  }
+  .DefaultHandle_handle:after {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #dadfe8;
+  }
+  .DefaultHandle_handle:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #dadfe8;
+  }
+  .DefaultHandle_handle__horizontal {
+    margin-left: 0px;
+    top: -15px;
+  }
+  .DefaultHandle_handle__horizontal:before {
+    top: 8px;
+    height: 10px;
+    width: 1.5px;
+    left: 4px;
+  }
+  .DefaultHandle_handle__horizontal:after {
+    top: 8px;
+    height: 10px;
+    width: 1.5px;
+    left: 9px;
+  }
+  .DefaultHandle_handle__vertical {
+    margin-top: -12px;
+    left: -10px;
+  }
+  .DefaultHandle_handle__vertical:before {
+    top: 10px;
+  }
+  .DefaultHandle_handle__vertical:after {
+    top: 13px;
+    left: 8px;
+    height: 1px;
+    width: 10px;
+  }
+  .DefaultHandle_handle__disabled {
+    border-color: #e0e0e0;
+  }
+  .DefaultBackground {
+    background-color: #e0e0e0;
+    height: 1px;
+    width: 100%;
+    position: relative;
+  }
+  .DefaultBackground_background__horizontal {
+    height: 1px;
+    top: 0px;
+    left: -2px;
+    bottom: 0px;
+    width: 100%;
+  }
+  .DefaultBackground_background__vertical {
+    width: 1px;
+    top: 0px;
+    height: 100%;
+  }
+  .rheostat {
+    position: relative;
+    overflow: visible;
+    width: 100%;
+  }
+  @media (min-width: 1128px) {
+    .autoAdjustVerticalPosition {
+      top: 12px;
+    }
+  }
+  @media (min-width: 639px) {
+    .rheostat {
+      position: relative;
+      overflow: visible;
+      width: 350px;}
+
+  }
+  .rheostat__vertical {
+    height: 100%;
+  }
+  .handleContainer {
+    height: 1px;
+    top: -2px;
+    left: 0px;
+    bottom: 4px;
+    width: 100%;
+    position: absolute;
+  }
+  .rheostat_background {
+    background-color: #fcfcfc;
+    border: 1px solid #d8d8d8;
+    position: relative;
+  }
+  .rheostat_background__horizontal {
+    height: 1px;
+    top: -2px;
+    left: -2px;
+    bottom: 4px;
+    width: 100%;
+  }
+  .rheostat_background__vertical {
+    width: 1px;
+    top: 0px;
+    height: 100%;
+  }
+  .noFlex{
+    display: inline-block !important;
+    width: 20px !important;
+    margin-right: 0px !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }

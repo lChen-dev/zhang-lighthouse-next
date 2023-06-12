@@ -1,0 +1,57 @@
+[
+    {
+        "label": "Cameras",
+        "value": "cameras",
+        "iconPath": "/static/assets/Icons/cameras.svg"
+    },
+    {
+        "label": "Jewelry",
+        "value": "jewelry",
+        "iconPath": "/static/assets/Icons/jewelry.svg"
+    },
+    {
+        "label": "Bikes",
+        "value": "bicycles",
+        "iconPath": "/static/assets/Icons/bicycles.svg"
+    },
+    {
+        "label": "Fine Arts",
+        "value": "fine_arts",
+        "iconPath": "/static/assets/Icons/fine_arts.svg"
+    },
+    {
+        "label": "Trading Cards",
+        "value": "trading_cards",
+        "iconPath": "/static/assets/Icons/trading_cards.svg"
+    },
+    {
+        "label": "Golf Equipment",
+        "value": "golf_equipment",
+        "iconPath": "/static/assets/Icons/golf_equipment.svg"
+    },
+    {
+        "label": "Coin Collection",
+        "value": "coin_collection",
+        "iconPath": "/static/assets/Icons/coin_collection.svg"
+    },
+    {
+        "label": "Stamp Collection",
+        "value": "stamp_collection",
+        "iconPath": "/static/assets/Icons/stamp_collection.svg"
+    },
+    {
+        "label": "Musical Instruments",
+        "value": "musical_instruments",
+        "iconPath": "/static/assets/Icons/musical_instruments.svg"
+    },
+    {
+        "label": "Silverware & Goldware",
+        "value": "silverware_and_goldware",
+        "iconPath": "/static/assets/Icons/furnished_property.svg"
+    },
+    {
+        "label": "Firearms",
+        "value": "guns",
+        "iconPath": "/static/assets/Icons/guns.svg"
+    }
+]

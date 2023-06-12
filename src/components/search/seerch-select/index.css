@@ -1,0 +1,50 @@
+.select-wrapper {
+    position: relative;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.select-wrapper .select-name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    padding: 6px 15px;
+    color: var(--black-primary);
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid var(--input-border-color);
+    border-radius: var(--border-radius-sm);
+    transition: border-color 0.15s ease-in-out;
+}
+
+.select-wrapper:focus .select-name.open,
+.price-select-wrapper:focus .main-input {
+    border-color: var(--green-active);
+}
+
+.select-wrapper:focus + .input-icon svg path,
+.select-wrapper:hover + .input-icon svg path {
+    stroke: var(--green-active);
+}
+
+.select-wrapper .options {
+    position: absolute;
+    z-index: 10;
+    top: 130%;
+    width: 100%;
+    padding-top: 10px;
+    height: 0;
+    height: fit-content;
+    max-height: 230px;
+    overflow: scroll;
+    background-color: var(--white);
+    border-radius: var(--border-radius-sm);
+    box-shadow: 0 20px 30px var(--shadow-color);
+}
+
+.select-wrapper .simple-option {
+    padding: 6px 12px;
+    font-size: 18px;
+}

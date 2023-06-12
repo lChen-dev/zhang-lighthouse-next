@@ -1,0 +1,100 @@
+/* Button */
+.lh-btn {
+  border-radius: 1.75rem;
+  transition: background-color 150ms ease-in-out;
+  background-color: #fa8946;
+  color: white;
+}
+
+.lh-btn.small {
+  font-size: 1rem;
+}
+
+.lh-btn.light {
+  background-color: #f6ece9;
+  color: #fa8946;
+}
+.lh-btn.white {
+  background-color: white;
+  color: #888;
+}
+
+.lh-btn:not(:disabled):hover {
+  background-color: #de5809;
+}
+
+.lh-btn.light:not(:disabled):hover {
+  background-color: #f6e1d6;
+}
+
+.lh-btn.white:not(:disabled):hover {
+  background-color: #fafafa;
+}
+
+.lh-btn:disabled {
+  background-color: #f2f2f2;
+  color: #C0C0C0 !important;
+  cursor: not-allowed;
+}
+
+.lh-btn:disabled span {
+  color: #C0C0C0 !important;
+}
+
+.lh-btn.light span {
+  color: #fa8946 !important;
+}
+
+.lh-btn.white span {
+  color: #888 !important;
+}
+
+/* Date Picker */
+.lh-form .react-datepicker-popper {
+  z-index: 9999 !important;
+}
+
+.lh-form .react-datepicker-wrapper {
+  width: 100%;
+}
+
+.lh-form .react-datepicker {
+  border-color: #f1f1f1;
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+}
+
+.lh-form .react-datepicker__triangle::before {
+  border-bottom-color: #f1f1f1 !important;
+}
+
+.lh-form .react-datepicker__day--keyboard-selected,
+.lh-form .react-datepicker__day--selected {
+  background-color: #c0d4d4 !important;
+  color: rgb(31, 83, 80);
+}
+
+.lh-form .react-datepicker__header {
+  border-bottom: none !important;
+}
+
+.select-wrapper {
+  position: relative;
+}
+
+.select-wrapper select:hover {
+  cursor: pointer;
+}
+
+.select-wrapper .arrow-wrapper {
+  position: absolute;
+  right: 20px;
+  height: 100%;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.lh-form input[type=date] {
+  min-height: 53px;
+}

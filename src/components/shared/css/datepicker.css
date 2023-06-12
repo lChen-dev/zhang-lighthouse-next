@@ -1,0 +1,63 @@
+.react-datepicker.lh-datepicker {
+  border: none;
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  width: 100%;
+}
+
+.lh-datepicker .react-datepicker__header {
+  background: white;
+  border-bottom: none !important;
+}
+
+.lh-datepicker .react-datepicker__navigation--previous {
+  border-right-color: #34966D;
+  left: 4rem;
+}
+
+.lh-datepicker .react-datepicker__navigation--next {
+  border-left-color: #34966D;
+  right: 4rem;
+}
+
+.lh-datepicker .react-datepicker__current-month {
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 125%;
+}
+
+.lh-datepicker .react-datepicker__month-container {
+  float: none;
+}
+
+.lh-datepicker .react-datepicker__day-name {
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  color: rgba(42, 52, 58, 0.6);
+}
+
+.lh-datepicker .react-datepicker__day--keyboard-selected,
+.lh-datepicker .react-datepicker__day--selected {
+  background-color: #34966D !important;
+}
+
+.lh-datepicker .react-datepicker__day-name {
+  width: 36px;
+}
+
+.lh-datepicker .react-datepicker__day {
+  width: 36px;
+  height: 36px;
+  font-family: Circular, sans-serif, Ariel, Helvetica, Georgia !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

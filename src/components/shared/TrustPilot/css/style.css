@@ -1,0 +1,6 @@
+.trustPilotLink{
+    display:none
+}
+.slideContainer:hover .trustPilotLink{
+    display:block;
+}

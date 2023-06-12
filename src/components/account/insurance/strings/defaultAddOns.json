@@ -1,0 +1,22 @@
+{
+    "replacementCost": {
+        "label": "Replacement Cost",
+        "description": "Receive a higher value for your claims.",
+        "productCoverageId": "0e7a2bad-cf9b-48a3-8cdc-1f1a3275305b"
+    },
+    "theft": {
+        "label": "Theft",
+        "description": "Protection if someone steals your things.",
+        "productCoverageId": "0fc46dd3-857d-40c8-86bd-c17cfe482395"
+    },
+    "earthquake": {
+        "label": "Earthquake",
+        "description": "Submit claims if your property is damaged by an earthquake.",
+        "productCoverageId": "ea4f2e24-96a2-4c4e-87ee-249f1c7224de"
+    },
+    "identityFraud": {
+        "label": "Identity Fraud",
+        "description": "Covers expenses incurred by you as the direct result of identity fraud.",
+        "productCoverageId": "f4aad7b8-acf2-4ee7-923c-da67f618cd5c"
+    }
+}

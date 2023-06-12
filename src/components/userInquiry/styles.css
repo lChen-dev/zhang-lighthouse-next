@@ -1,0 +1,58 @@
+.expanded-progressbar{
+    display: hidden;
+}
+.specialist-card{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+@media only screen and (max-width: 960px) {
+    .expanded-progressbar{
+        display:flex;
+    }
+  }
+@media only screen and (min-width: 639px) {
+    .specialist-card{
+        padding-left: 52px;
+        padding-right: 52px;
+    }
+}
+.custom-wheel {
+    position: unset !important;
+    background-color: white !important;
+}
+.wheel-hide-caption{
+    display: none !important;
+}
+
+.custom-datepicker-scroll li{
+    color: #2A343A26 !important ;
+}
+.custom-datepicker-scroll :nth-child(5){
+    color: #2A343A4D !important ;
+}
+.custom-datepicker-scroll :nth-child(7){
+    color: #2A343A4D !important ;
+
+}
+.custom-datepicker-scroll :nth-child(6){
+    color:  #2A343A !important ;
+    font-weight: 700;
+}
+.custom-datepicker-scroll :nth-child(4){
+    color: #2A343A33 !important ;
+}
+.custom-datepicker-scroll :nth-child(8){
+    color:  #2A343A33 !important ;
+    font-weight: 700;
+}
+.custom-viewport{
+    height: 260px !important;
+}
+.no-margin-wheel{
+    margin: 0 !important;
+}
+.new-color-wheel{
+    border-top: 1.5px solid rgba(42, 52, 58, 0.25) !important;
+    border-bottom: 1.5px solid rgba(42, 52, 58, 0.25) !important;
+
+}

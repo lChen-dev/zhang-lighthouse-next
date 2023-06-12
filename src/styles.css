@@ -1,0 +1,22 @@
+@import '../public/static/assets/css/controls.css';
+
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+
+/* purgecss end ignore */
+@tailwind utilities;
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.placeholder-font-normal::placeholder {
+  font-weight: normal;
+}
+
+html, body {
+  font-family: circular, sans-serif;
+}

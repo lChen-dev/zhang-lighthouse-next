@@ -1,0 +1,14 @@
+.wizardcontainer{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 38px;
+    width:100%
+}
+@media only screen and (min-width:639px) {
+    .wizardcontainer{
+        padding-left: 45px;
+        padding-right: 45px;
+        padding-top: 118px;
+        width:459px;
+    }
+}

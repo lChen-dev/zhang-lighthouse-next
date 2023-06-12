@@ -1,0 +1,325 @@
+button,button a,a,span a,span button,span,p,h1,h2,h3,h4,h5,h6,b,i,u,div {
+  color: #2A343A;
+}
+
+/* hide scroll bar */
+:not(.scroll-enabled)::-webkit-scrollbar {
+  display: none !important;
+  background: transparent !important;
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* Internet Explorer 10+ */
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -ms-overflow-style: none;
+}
+:not(.scroll-enabled)::-webkit-scrollbar-thumb {
+  background: transparent !important;
+  display: none !important;
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* Internet Explorer 10+ */
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -ms-overflow-style: none;
+}
+body,
+html {
+  box-sizing: content-box;
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* Internet Explorer 10+ */
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -ms-overflow-style: none;
+  height: 100%;
+  overflow: hidden;
+}
+body::-webkit-scrollbar,
+html::-webkit-scrollbar {
+  /* WebKit */
+  width: 0 !important;
+  height: 0 !important;
+}
+.bgSlices {
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+}
+.bgSlices:before {
+  content: '';
+  background: url('/static/assets/images/greenslice1.svg') no-repeat center
+    center;
+  position: absolute;
+  background-size: 200px 200px;
+  top: 5%;
+  left: 15%;
+  width: 300px;
+  height: 100%;
+  filter: brightness(0.01);
+  z-index: -1;
+}
+.bgSlices:after {
+  content: '';
+  background: url('/static/assets/images/greenslice2.svg') no-repeat center
+    center;
+  position: absolute;
+  background-size: 200px 180px;
+  top: 1%;
+  right: 15%;
+  width: 300px;
+  height: 100%;
+  filter: brightness(0.01);
+  z-index: -1;
+}
+.text-shadow-orange {
+  text-shadow: 1px 0px 5px #ffd1b670;
+}
+.c3ul li:before {
+  content: '';
+  padding: 4px;
+  border-radius: 50%;
+  display: inline-block;
+  width: 8px;
+  background: #a5c3ce;
+  margin-right: 12px;
+  position: relative;
+  top: -3px;
+}
+.testimonialcard {
+  height: 160px;
+}
+.placcent {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.introContainer {
+  z-index: -1;
+}
+.how-lighthouse-work-dialog{
+  backdrop-filter: blur(3px);
+}
+.how-lighthouse-work-dialog .modal-header{
+  background: linear-gradient(0deg, rgba(42, 52, 58, 0.05), rgba(42, 52, 58, 0.05));
+}
+.how-lighthouse-work-dialog .modal-body{
+  padding:0;
+}
+.how-lighthouse-work-dialog .modal-body> .step-img-container{
+  background: linear-gradient(0deg, rgba(42, 52, 58, 0.05), rgba(42, 52, 58, 0.05));
+  height: 204px;
+}
+.how-lighthouse-work-dialog .modal-body> .step-img-container > img{
+  margin: 0px auto;
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  right: 0;
+  width: 80%;
+}
+.how-lighthouse-work-dialog .modal-body> .step-img-container > .how-step2-img{
+  bottom: -110px;
+  width: 90%;
+}
+.how-lighthouse-work-dialog .modal-body> .step-img-container > .how-step3-img{
+  width: 65%;
+}
+
+/* < sm */
+@media (max-width: 640px) {
+  .how-lighthouse-work-dialog .modal-dialog {
+      width: 100%;
+      max-width: 100vw;
+      height: 100%;
+      max-height: 100vh;
+      margin: 0;
+      padding: 0;
+ }
+  .how-lighthouse-work-dialog .modal-body {
+      display: flex;
+      flex-flow: column;
+ }
+  .how-lighthouse-work-dialog .modal-dialog .modal-content {
+      border-radius: 0;
+      height: 100vh;
+      overflow-y: auto;
+ }
+  .how-lighthouse-work-dialog .modal-dialog .modal-content .modal-header {
+      padding: 1rem;
+ }
+}  
+@media only screen and (max-width: 900px) and (min-width: 800px) {
+  .placcent {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+@media only screen and (max-width: 1200px) and (min-width: 300px) {
+  .placcent {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media only screen and (max-width: 1024px) and (min-width: 300px) {
+  .c3ul {
+    margin-left: auto;
+    margin-right: auto;
+    width: 255px;
+  }
+  .c1buttons button {
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 700px) and (min-width: 600px) {
+  br {
+    display: none;
+  }
+  .c1imgs {
+    margin: 0 auto;
+  }
+
+  .c3buttons,
+  .c3buttons button {
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(90% - 20px);
+  }
+  .p10 {
+    padding-left: 10px;
+  }
+  .learnBlockButtons button {
+    width: 300px !important;
+  }
+  .bgSlices::before {
+    left: 10%;
+  }
+  .bgSlices::after {
+    right: 10%;
+  }
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 800px) {
+  .heroContainer {
+    min-height: 615px !important;
+  }
+}
+@media only screen and (max-width: 800px) and (min-width: 700px) {
+  .heroContainer {
+    min-height: 675px !important;
+  }
+}
+@media only screen and (max-width: 682px) and (min-width: 600px) {
+  .heroContainer {
+    min-height: 730px !important;
+  }
+}
+
+@media only screen and (max-width: 1076px) and (min-width: 1024px) {
+  .c1buttons button,
+  .c1buttons svg,
+  .c1buttons line,
+  .c1buttons path {
+    text-shadow: none;
+  }
+}
+@media only screen and (max-width: 1024px) and (min-width: 900px) {
+  .heroContainer {
+    min-height: 750px !important;
+  }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 682px) {
+  .heroContainer {
+    min-height: 750px !important;
+  }
+}
+@media only screen and (max-width: 500px) and (min-width: 400px) {
+  .bgSlices::before {
+    left: 50px;
+    background-size: 150px 200px;
+    width: 200px;
+  }
+  .bgSlices::after {
+    right: 10px;
+    background-size: 150px 200px;
+    width: 200px;
+  }
+  .heroContainer {
+    min-height: 800px !important;
+  }
+  .placcent {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media only screen and (max-width: 450px) and (min-width: 430px) {
+  .heroContainer {
+    min-height: 800px !important;
+  }
+}
+@media only screen and (max-width: 430px) and (min-width: 400px) {
+  .heroContainer {
+    min-height: 750px !important;
+  }
+}
+
+@media only screen and (max-width: 400px) and (min-width: 200px) {
+  .heroContainer {
+    min-height: 750px !important;
+  }
+  .bgSlices::before {
+    left: 50px;
+    background-size: 130px 170px;
+    width: 100px;
+  }
+  .bgSlices::after {
+    right: 35px;
+    background-size: 130px 170px;
+    width: 100px;
+  }
+  .placcent {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .heroContainer .placcent.full {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .placcent.full {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .c1buttons button {
+    margin: 0 auto;
+    margin-top: 10px;
+}
+}
+
+@media only screen and (min-width: 2500px) {
+  .heroContainer {
+    min-height: 1750px !important;
+  }
+}
+@media only screen and (max-width: 1205px) and (min-width: 1024px) {
+  .heroContainer {
+    min-height: 800px !important;
+  }
+}
+@media only screen and (max-width: 1440px) and (min-width: 1024px) {
+  .heroContainer {
+    min-height: 900px !important;
+  }
+}
+@media only screen and (max-width: 1840px) and (min-width: 1440px) {
+  .heroContainer {
+    min-height: 950px !important;
+  }
+}
+@media only screen and (max-width: 2500px) and (min-width: 1840px) {
+  .heroContainer {
+    min-height: 1250px !important;
+  }
+}
+
+.floatingPositionBlock{
+  padding-left: 0px;
+}
+.infoCardContainer{
+  left: 0;
+  width:100%;
+}

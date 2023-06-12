@@ -1,0 +1,116 @@
+
+.o-welcome-greeting {
+  margin-bottom: 55px;
+}
+.o-text-input-uo{
+  padding: 15px 15px !important;
+  text-align: center;
+  width: 100%;
+  justify-content: space-around !important;
+}
+
+
+.o-phone-number-text-input {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.o-phone-number-text-input input[type=tel] {
+  border: 0px;
+  width: 70%;
+  outline: 0px;
+}
+
+.o-phone-number-text-input > div:first-child {
+  width: 40%;
+}
+
+.o-phone-number-text-input div {
+  border: 0px  none !important;
+  border-color: unset !important;
+  box-shadow: unset !important;
+  outline: 0px;
+}
+
+.o-phone-number-form__fields {
+  margin-bottom: 50px;
+}
+
+.o-country-calling-code {
+  font-size: 14px;
+  line-height: 150%;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.o-country-option {
+  display: flex;
+  align-items: center;
+}
+
+.o-flag-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+.o-verification-code-box {
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 18px 28px 36px;
+  margin-bottom: 64px;
+}
+
+.o-verification-code-box-right div {
+  font-size: 14px;
+  line-height: 150%;
+  color: rgba(42, 52, 58, 0.75);
+}
+
+.o-verification-code-label {
+  font-size: 14px;
+  line-height: 30px;
+  color: rgba(42, 52, 58, 0.75);
+  margin-bottom: 8px;
+}
+
+.o-verification-code-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.o-verification-code__input,
+.o-verification-code__input-inmodal {
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #E0E0E0;
+  border-radius: 2px;
+  font-family: monospace;
+}
+
+.o-verification-code__input { width: 40px; }
+.o-verification-code__input-inmodal { width: 28px; }
+
+@media only screen and (min-width: 639px) {
+  .o-verification-code__input {
+    width: 35px;
+    height: 40px;
+    padding: 11px;
+    border: 1px solid #E0E0E0;
+    border-radius: 2px;
+    
+  }
+  .o-phone-number-text-input > div:first-child {
+    width:55%
+  }
+}
+
+
+@media only screen and (min-width: 600px){
+  .o-phone-number-text-input{
+    justify-content: start !important;
+  }
+}

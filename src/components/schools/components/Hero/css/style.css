@@ -1,0 +1,23 @@
+.schools-apartment{
+    max-height: 825px;
+    bottom: -45px; 
+}
+.hero-cards{
+    top: -88px;
+    max-width: 770px;
+}
+.hero-image-box {
+    max-height: 751px;
+    min-height: 751px;
+    z-index: 1;
+    background: #F9F9F9;
+}
+@media only screen and (max-width: 767px) {
+    .schools-apartment{
+        bottom: -50px; 
+    }
+    .hero-image-box {
+        max-height: 751px;
+        min-height: 720px;
+    }
+}

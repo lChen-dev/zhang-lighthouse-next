@@ -1,0 +1,10 @@
+.grayPlaceholder, .grayPlaceholder::placeholder{
+    color: rgba(42, 52, 58, 0.75) !important;
+    border: 1px solid transparent;
+    box-shadow: 0 0 0 4px transparent;
+    outline: 0px none;
+}
+.grayPlaceholder:focus{
+    border: 1px solid rgba(52, 150, 109);
+    box-shadow: 0 0 0 4px rgba(52, 150, 109, 0.2);
+}

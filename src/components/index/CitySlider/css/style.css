@@ -1,0 +1,48 @@
+.cashback-tooltip {
+  width: 191px;
+  height: 30px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 4px;
+  position: absolute;
+  z-index: 20;
+  top: 10px;
+  left: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  color: #fff;
+}
+.orange-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #fa8946;
+  display: block;
+  position: relative;
+  top: 3px;
+  margin-right: 10px;
+}
+.cashback-description {
+  position: relative;
+  top: 8px;
+  left: 10px;
+}
+.city-description-bg p {
+  position: relative;
+  top: 15px;
+}
+
+.alice-carousel__wrapper {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin: 0px;
+}
+.citySliderImg{
+user-drag: none; 
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}

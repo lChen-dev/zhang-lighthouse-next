@@ -1,0 +1,57 @@
+.phone-number-text-input {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.phone-number-text-input input[type=tel] {
+  border: 0;
+  width: 35%;
+  outline: 0;
+}
+
+.phone-number-text-input > .css-2b097c-container {
+  width: 55%;
+}
+
+.phone-number-text-input > .css-2b097c-container > .css-yk16xz-control {
+  border: 0;
+  border-color: unset !important;
+  box-shadow: unset !important;
+  outline: 0;
+}
+
+.o-country-option {
+  display: flex;
+  align-items: center;
+}
+
+.o-flag-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+.o-verification-code-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.o-verification-code__input {
+  width: 35px;
+  height: 40px;
+  padding: 11px;
+  border: 1px solid #E0E0E0;
+  border-radius: 4px;
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+  outline-color: #34966D;
+  text-align: center;
+}
+
+.o-verification-code__input:first-child {
+  margin-left: 0;
+}

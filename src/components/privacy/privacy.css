@@ -1,0 +1,38 @@
+.privacy-content p {
+  font-weight: 300;
+}
+
+.privacy-content a {
+  word-break: break-word;
+}
+
+.privacy-content p strong {
+  font-weight: 450;
+}
+
+.privacy-content .section h4,
+.privacy-content section h4,
+.privacy-content .section h5,
+.privacy-content section h5{
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.privacy-content section p:not(:last-child),
+.privacy-content .section p:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.privacy-content ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.privacy-content .contact-info {
+  padding-left: 1rem;
+}
+
+.privacy-content .contact-info > p {
+  margin-bottom: 0.25rem !important;
+}
